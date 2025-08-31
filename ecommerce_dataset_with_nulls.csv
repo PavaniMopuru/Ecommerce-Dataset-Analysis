@@ -1,0 +1,1001 @@
+Order ID,Order Date,Customer Name,Product,Category,Region,Quantity,Unit Price,Total Price,Order Status
+ORD00001,2023-02-12,Dylan Davis,Smartphone,Electronics,,3.0,818.0,2454.0,
+ORD00002,2023-11-15,Henry Thomas,Headphones,Electronics,South,,166.0,,
+ORD00003,2023-02-22,Lauren Wilson,Headphones,Electronics,,1.0,501.0,501.0,Ordered
+ORD00004,2023-12-12,Andrew Shields,Laptop,Electronics,East,2.0,,1526.0,Delivered
+ORD00005,,David Newton,Backpack,Accessories,West,3.0,68.0,,
+ORD00006,2023-09-17,Denise Cole,Laptop,Electronics,North,4.0,,3664.0,Shipped
+ORD00007,2023-04-25,Jennifer Vincent,Laptop,,East,2.0,319.0,638.0,Shipped
+ORD00008,2023-03-14,Andrew Holden,,Footwear,North,,974.0,1948.0,Ordered
+ORD00009,2023-04-23,Richard Palmer,,Footwear,North,2.0,586.0,1172.0,
+,2023-07-20,Lindsey George,T-Shirt,Apparel,West,,597.0,597.0,Ordered
+ORD00011,2023-04-03,Steven Mathis,Laptop,Electronics,West,4.0,536.0,2144.0,Shipped
+ORD00012,2023-03-17,Candace Todd,,,East,3.0,847.0,2541.0,Shipped
+ORD00013,2023-05-31,Jennifer Vincent,Headphones,Electronics,South,2.0,,1600.0,Delivered
+ORD00014,2023-12-29,,Headphones,Electronics,North,3.0,610.0,1830.0,Ordered
+ORD00015,,Barbara Sanchez,,Electronics,West,1.0,182.0,182.0,
+ORD00016,2023-12-02,Jenna Walker,Laptop,Electronics,South,,938.0,4690.0,Shipped
+ORD00017,2023-06-16,Barbara Sanchez,T-Shirt,Apparel,South,3.0,384.0,,Shipped
+ORD00018,2023-04-30,Andrew Santiago,Backpack,Accessories,South,4.0,602.0,2408.0,
+ORD00019,2023-02-10,Jennifer Smith,,Accessories,South,3.0,779.0,2337.0,Ordered
+,2023-01-04,Jason Martin,Shoes,Footwear,West,2.0,733.0,1466.0,Ordered
+ORD00021,2023-03-30,Jennifer Smith,,Accessories,East,2.0,430.0,,Delivered
+ORD00022,2023-11-23,Sheila Bush,,Apparel,South,5.0,,1200.0,Ordered
+ORD00023,,Andrew Holden,Laptop,Electronics,,3.0,940.0,2820.0,Shipped
+ORD00024,2023-01-25,Daniel Mendoza,Laptop,Electronics,West,1.0,461.0,461.0,Ordered
+ORD00025,2023-03-21,,Headphones,Electronics,East,,867.0,3468.0,Ordered
+ORD00026,2023-05-15,Thomas Moss,Shoes,Footwear,North,,534.0,1068.0,
+ORD00027,2023-01-06,,Laptop,Electronics,East,2.0,781.0,1562.0,Ordered
+ORD00028,,Sarah Leblanc,,,East,1.0,893.0,893.0,Ordered
+ORD00029,,John Garcia,Watch,Accessories,East,5.0,839.0,4195.0,Returned
+ORD00030,2023-07-13,Gregory Miller,T-Shirt,Apparel,West,1.0,101.0,101.0,Ordered
+ORD00031,2023-12-15,Nicholas Gray PhD,Headphones,Electronics,South,4.0,311.0,1244.0,Delivered
+ORD00032,2023-12-11,James Moore,Watch,Accessories,North,5.0,46.0,230.0,Shipped
+ORD00033,2023-06-18,Harry James,Shoes,,East,3.0,456.0,1368.0,Delivered
+ORD00034,2023-10-11,Jason Martin,Watch,Accessories,North,4.0,,,Ordered
+ORD00035,2023-07-24,Daniel Hamilton,,Footwear,West,2.0,326.0,,Shipped
+ORD00036,2023-12-08,Erin Smith,T-Shirt,Apparel,,1.0,676.0,676.0,
+ORD00037,2023-06-07,,Watch,,East,3.0,230.0,,Ordered
+ORD00038,2023-04-25,Shannon Vasquez,Shoes,Footwear,East,5.0,887.0,4435.0,
+ORD00039,2023-02-20,,,Electronics,West,,134.0,268.0,
+ORD00040,2023-10-01,,Watch,Accessories,West,3.0,104.0,312.0,Shipped
+,2023-03-22,,Smartphone,Electronics,North,2.0,,1772.0,Shipped
+ORD00042,,Larry Cummings,,Electronics,South,5.0,785.0,3925.0,Ordered
+ORD00043,2023-09-30,William Harris,Smartphone,,South,2.0,172.0,344.0,
+ORD00044,2023-12-05,Denise Barrett,Shoes,Footwear,North,4.0,946.0,3784.0,Delivered
+ORD00045,2023-08-29,Richard Hall,Shoes,Footwear,East,4.0,887.0,3548.0,Shipped
+ORD00046,2023-09-14,Andrew Shields,T-Shirt,Apparel,,4.0,,1236.0,Ordered
+ORD00047,,Jill Boyle,T-Shirt,,,5.0,,1885.0,Returned
+ORD00048,2023-01-02,Jacob Torres,Laptop,,,3.0,261.0,783.0,Shipped
+ORD00049,2023-07-09,Shawn Marshall,T-Shirt,Apparel,South,1.0,440.0,,Shipped
+ORD00050,2023-11-30,Kevin Cross,Headphones,Electronics,South,3.0,110.0,330.0,Delivered
+ORD00051,,Michael Smith,,Electronics,North,2.0,354.0,,Ordered
+ORD00052,2023-06-10,Karen Olsen,Smartphone,Electronics,North,4.0,471.0,1884.0,Ordered
+ORD00053,,Kristen Jones,Headphones,,,3.0,649.0,1947.0,Delivered
+ORD00054,2023-02-10,Seth Cook,,,West,,37.0,74.0,Shipped
+ORD00055,2023-11-27,Andrew Holden,Laptop,Electronics,South,5.0,791.0,3955.0,Delivered
+ORD00056,2023-07-13,William Atkinson,,Accessories,South,,863.0,1726.0,Shipped
+ORD00057,2023-04-09,Jennifer Garcia,Backpack,Accessories,West,5.0,176.0,880.0,Shipped
+,2023-12-03,,,Accessories,North,5.0,397.0,,Ordered
+ORD00059,2023-11-03,,Backpack,Accessories,South,1.0,716.0,716.0,Ordered
+ORD00060,2023-01-27,Seth Cook,Shoes,Footwear,East,2.0,350.0,700.0,Ordered
+,2023-11-02,Erin Smith,Shoes,Footwear,West,4.0,362.0,1448.0,Shipped
+ORD00062,2023-04-13,,Headphones,Electronics,South,2.0,619.0,1238.0,Ordered
+ORD00063,2023-07-14,Rebecca Jackson,Headphones,Electronics,,5.0,815.0,,Shipped
+ORD00064,2023-05-10,Harold Brown,Backpack,Accessories,South,3.0,421.0,1263.0,Delivered
+ORD00065,,Denise Ward,Headphones,,North,5.0,525.0,2625.0,Shipped
+ORD00066,2023-01-09,Thomas Moss,Watch,Accessories,West,2.0,394.0,788.0,Shipped
+ORD00067,2023-08-29,Sheila Bush,Laptop,Electronics,,1.0,313.0,313.0,Ordered
+ORD00068,2023-11-01,Thomas Moss,Backpack,Accessories,South,4.0,265.0,1060.0,Ordered
+ORD00069,,Candace Todd,,Electronics,,3.0,703.0,2109.0,Ordered
+ORD00070,,Kevin Cross,Shoes,Footwear,South,1.0,35.0,35.0,Ordered
+ORD00071,2023-10-11,John Garcia,Backpack,Accessories,East,3.0,288.0,864.0,Delivered
+ORD00072,2023-04-10,Jennifer Smith,Smartphone,Electronics,,5.0,,3195.0,Ordered
+ORD00073,,Denise Cole,Smartphone,Electronics,West,2.0,137.0,274.0,Ordered
+ORD00074,2023-07-16,Richard Palmer,Shoes,Footwear,East,,335.0,1340.0,Ordered
+ORD00075,2023-12-21,,Laptop,Electronics,North,2.0,,1418.0,Ordered
+,2023-07-17,Daniel Hamilton,Backpack,,North,4.0,201.0,804.0,Shipped
+ORD00077,2023-04-13,Mallory Lopez,Smartphone,Electronics,South,2.0,351.0,702.0,Delivered
+ORD00078,2023-11-28,,T-Shirt,Apparel,,3.0,820.0,,Ordered
+ORD00079,2023-07-12,Jennifer Garcia,Shoes,Footwear,North,1.0,314.0,314.0,Returned
+ORD00080,2023-02-10,Denise Cole,Backpack,Accessories,North,5.0,425.0,2125.0,
+ORD00081,,Candace Todd,Headphones,,West,5.0,675.0,3375.0,Ordered
+ORD00082,2023-05-04,Jacob Torres,Shoes,Footwear,West,2.0,275.0,550.0,Shipped
+,2023-05-08,Heather Gonzalez,Smartphone,Electronics,West,1.0,572.0,572.0,Returned
+ORD00084,2023-06-17,Michael Contreras,Laptop,Electronics,South,2.0,636.0,1272.0,Ordered
+ORD00085,2023-02-26,,Smartphone,Electronics,North,2.0,986.0,1972.0,Ordered
+,2023-09-22,Thomas Moss,Watch,Accessories,South,,435.0,2175.0,Ordered
+ORD00087,2023-08-18,Jennifer Nguyen,Headphones,Electronics,West,4.0,380.0,1520.0,Ordered
+ORD00088,2023-12-19,Michelle Herring,Backpack,,South,2.0,326.0,652.0,Shipped
+ORD00089,2023-08-03,,Headphones,Electronics,West,3.0,259.0,777.0,Shipped
+ORD00090,2023-04-20,Angel Smith,Laptop,,West,3.0,874.0,,
+ORD00091,2023-09-14,Sarah Harding,Backpack,Accessories,North,3.0,431.0,,Shipped
+,,Blake Pacheco,Headphones,Electronics,West,4.0,197.0,788.0,Ordered
+ORD00093,2023-09-30,Denise Cole,Smartphone,Electronics,,2.0,750.0,1500.0,Delivered
+ORD00094,2023-09-17,Jacob Brown,T-Shirt,Apparel,South,,559.0,2795.0,Delivered
+ORD00095,2023-04-10,,,,East,3.0,663.0,1989.0,Delivered
+,2023-05-28,Richard Palmer,,Accessories,,4.0,437.0,1748.0,Ordered
+ORD00097,2023-05-24,John Garcia,Laptop,Electronics,West,5.0,843.0,4215.0,
+ORD00098,2023-08-21,Timothy Frazier,Smartphone,,West,1.0,489.0,489.0,Ordered
+ORD00099,,Henry Thomas,,,,,,2919.0,
+ORD00100,2023-04-16,Timothy Frazier,T-Shirt,Apparel,East,,173.0,692.0,
+ORD00101,2023-01-06,Craig Andrews,Backpack,Accessories,South,3.0,243.0,729.0,Ordered
+ORD00102,2023-12-23,Kevin Cross,T-Shirt,Apparel,South,4.0,804.0,3216.0,Ordered
+ORD00103,2023-02-13,Jennifer Vincent,Laptop,Electronics,,3.0,65.0,195.0,Shipped
+ORD00104,2023-06-29,Randall Brewer,,Electronics,North,2.0,,,Ordered
+ORD00105,2023-08-21,,T-Shirt,Apparel,North,2.0,24.0,48.0,Shipped
+,,Nicholas Gray PhD,T-Shirt,,East,5.0,465.0,2325.0,Shipped
+ORD00107,2023-05-03,Andrew Santiago,Shoes,Footwear,West,5.0,,,Ordered
+ORD00108,2023-12-27,William Atkinson,T-Shirt,Apparel,South,3.0,656.0,1968.0,Delivered
+ORD00109,2023-06-27,Daniel Hamilton,,,South,1.0,795.0,795.0,Delivered
+ORD00110,2023-05-03,Rebecca Rojas,Watch,Accessories,South,5.0,721.0,3605.0,Ordered
+,2023-08-30,Jennifer Vincent,Watch,Accessories,South,3.0,,2649.0,Shipped
+,2023-12-25,Michael Contreras,Headphones,Electronics,East,1.0,841.0,841.0,Shipped
+,2023-05-08,Sarah Leblanc,Shoes,Footwear,,5.0,658.0,,Ordered
+ORD00114,2023-07-24,Andrew Holden,Backpack,Accessories,North,4.0,204.0,816.0,Delivered
+ORD00115,2023-01-14,Michael Contreras,Laptop,Electronics,West,,693.0,2079.0,Returned
+ORD00116,2023-01-20,Cindy Meyer,T-Shirt,Apparel,East,5.0,,2810.0,Returned
+ORD00117,2023-07-13,Christopher Gibson,Shoes,Footwear,,5.0,429.0,2145.0,
+,,Daniel Mendoza,Headphones,Electronics,,,550.0,2200.0,Ordered
+,2023-11-24,Sarah Vazquez,Laptop,Electronics,South,2.0,789.0,1578.0,Delivered
+ORD00120,2023-12-05,Sarah Guerrero,,,North,5.0,239.0,1195.0,Ordered
+ORD00121,,Rebecca Rojas,T-Shirt,Apparel,North,1.0,946.0,946.0,Delivered
+ORD00122,2023-10-07,,T-Shirt,Apparel,West,1.0,,318.0,Delivered
+,2023-12-22,Jennifer Vincent,Laptop,Electronics,South,4.0,523.0,2092.0,Shipped
+ORD00124,2023-06-06,Megan Guzman,Watch,Accessories,South,1.0,972.0,972.0,
+ORD00125,2023-09-27,Jennifer Garcia,Smartphone,Electronics,North,,1000.0,2000.0,Shipped
+ORD00126,2023-05-02,Harry James,Shoes,Footwear,,3.0,339.0,1017.0,
+ORD00127,2023-08-24,Michael Contreras,Smartphone,,West,1.0,578.0,578.0,Returned
+ORD00128,2023-10-25,Robert Ford,Smartphone,,West,1.0,955.0,955.0,Shipped
+ORD00129,2023-01-08,Sarah Leblanc,Smartphone,Electronics,East,,468.0,936.0,Shipped
+ORD00130,,Kristen Jones,T-Shirt,Apparel,West,1.0,806.0,806.0,Ordered
+ORD00131,2023-05-06,Jacob Torres,Laptop,Electronics,,1.0,,717.0,
+ORD00132,,John Roman,T-Shirt,Apparel,South,2.0,869.0,1738.0,
+ORD00133,,Jessica Jones,Laptop,Electronics,South,,48.0,240.0,Returned
+ORD00134,,Victoria Fernandez,Watch,Accessories,East,5.0,931.0,4655.0,Delivered
+ORD00135,2023-06-30,,T-Shirt,Apparel,South,5.0,701.0,3505.0,
+ORD00136,2023-12-31,Sarah Guerrero,Backpack,Accessories,East,2.0,667.0,1334.0,Ordered
+ORD00137,2023-10-24,Lindsay Williams,,Accessories,South,3.0,154.0,462.0,
+,2023-09-09,Shawn Marshall,Headphones,Electronics,North,5.0,91.0,455.0,Ordered
+ORD00139,2023-03-30,,Smartphone,Electronics,North,,625.0,3125.0,Delivered
+ORD00140,2023-11-20,Lindsay Williams,Backpack,Accessories,East,5.0,881.0,,Shipped
+ORD00141,2023-03-02,Karen Olsen,Smartphone,Electronics,West,2.0,834.0,1668.0,Ordered
+ORD00142,2023-09-13,Mr. Anthony Barnes,Backpack,Accessories,North,1.0,64.0,64.0,Shipped
+ORD00143,2023-04-10,Vanessa Rush,,Electronics,West,,528.0,2112.0,
+,2023-11-04,Mr. Anthony Barnes,Backpack,Accessories,East,4.0,487.0,,Returned
+ORD00145,2023-05-25,Vanessa Rush,,,North,5.0,330.0,1650.0,Shipped
+,2023-11-23,James Moore,Watch,Accessories,East,3.0,723.0,2169.0,
+ORD00147,2023-04-06,Monica Shelton,Headphones,Electronics,North,5.0,,2030.0,Ordered
+ORD00148,,Gregory Miller,T-Shirt,Apparel,South,4.0,904.0,3616.0,Shipped
+ORD00149,2023-02-02,Audrey Cook,Watch,,South,3.0,653.0,1959.0,Returned
+ORD00150,2023-09-19,Jennifer Smith,T-Shirt,Apparel,East,,661.0,2644.0,Returned
+,2023-10-02,Randy Perez,T-Shirt,Apparel,East,,968.0,2904.0,Shipped
+ORD00152,2023-04-06,James Moore,Smartphone,Electronics,East,,865.0,865.0,Shipped
+ORD00153,2023-04-20,Robert Simmons,Smartphone,Electronics,West,1.0,982.0,982.0,
+ORD00154,,,Smartphone,Electronics,North,5.0,247.0,1235.0,Ordered
+ORD00155,2023-01-29,Cindy Meyer,Laptop,Electronics,East,,279.0,1116.0,Shipped
+ORD00156,2023-09-25,Sean Kent,Watch,Accessories,South,2.0,472.0,944.0,Delivered
+ORD00157,2023-02-09,,Laptop,Electronics,North,5.0,721.0,3605.0,
+ORD00158,2023-09-15,Megan Guzman,Smartphone,Electronics,South,2.0,,1750.0,Shipped
+ORD00159,2023-10-16,Michelle Herring,Smartphone,Electronics,South,4.0,135.0,540.0,Shipped
+ORD00160,2023-09-17,Erin Smith,,Accessories,North,,149.0,298.0,Ordered
+,2023-06-19,Vanessa Rush,,,South,1.0,957.0,957.0,Ordered
+ORD00162,2023-05-10,Kristen Jones,T-Shirt,Apparel,,3.0,748.0,2244.0,Shipped
+ORD00163,2023-02-11,Vanessa Rush,Smartphone,Electronics,East,3.0,,,Ordered
+ORD00164,2023-11-21,Lindsey George,Laptop,Electronics,North,1.0,434.0,434.0,Returned
+,2023-05-09,Thomas Moss,Smartphone,Electronics,,4.0,146.0,584.0,Shipped
+ORD00166,2023-08-02,Sarah Guerrero,,Electronics,South,5.0,59.0,295.0,Returned
+ORD00167,2023-01-07,Andrew Holden,,,South,4.0,441.0,1764.0,Shipped
+ORD00168,2023-05-21,Craig Andrews,Headphones,Electronics,,,306.0,612.0,Shipped
+ORD00169,2023-03-09,Mr. Anthony Barnes,Laptop,Electronics,North,5.0,859.0,4295.0,Ordered
+ORD00170,,Erik Green,Backpack,Accessories,South,5.0,147.0,735.0,Delivered
+ORD00171,2023-03-02,Shannon Vasquez,Laptop,Electronics,North,,892.0,892.0,Ordered
+ORD00172,2023-06-25,Seth Cook,Laptop,,West,4.0,292.0,1168.0,Ordered
+ORD00173,2023-05-31,Larry Cummings,,Accessories,,1.0,,416.0,Delivered
+ORD00174,2023-09-11,Jennifer Nguyen,T-Shirt,Apparel,,2.0,679.0,1358.0,Delivered
+ORD00175,2023-12-21,Andrew Shields,Headphones,Electronics,South,5.0,865.0,4325.0,Ordered
+ORD00176,2023-05-05,,Smartphone,Electronics,North,2.0,87.0,174.0,Ordered
+,2023-05-05,Carla Hill,Laptop,Electronics,North,4.0,,516.0,Shipped
+ORD00178,2023-09-18,Maria Gill,,Electronics,North,1.0,132.0,132.0,Ordered
+ORD00179,2023-02-19,Maria Gill,Shoes,Footwear,West,5.0,,1935.0,Ordered
+ORD00180,2023-09-09,William Harris,,Electronics,West,3.0,979.0,2937.0,Ordered
+ORD00181,2023-12-12,Grant Morgan,Smartphone,Electronics,West,2.0,313.0,626.0,
+ORD00182,2023-02-24,Jill Boyle,Headphones,Electronics,South,2.0,802.0,,Ordered
+ORD00183,2023-01-13,,Watch,Accessories,North,3.0,573.0,1719.0,Ordered
+ORD00184,2023-03-06,,T-Shirt,Apparel,West,,590.0,2950.0,Ordered
+ORD00185,2023-08-23,Michelle Herring,Backpack,Accessories,South,4.0,87.0,348.0,Delivered
+ORD00186,2023-09-29,Gregory Miller,Watch,Accessories,South,1.0,,155.0,Shipped
+ORD00187,2023-07-11,Thomas Rasmussen,Laptop,Electronics,North,3.0,982.0,2946.0,
+ORD00188,2023-09-18,Marie Greer,Backpack,Accessories,South,3.0,,2841.0,Delivered
+,2023-04-17,Kelly Collins,Backpack,Accessories,North,1.0,451.0,451.0,Ordered
+ORD00190,2023-06-17,Brian Williams,Backpack,,,5.0,183.0,,Ordered
+,2023-11-20,Lindsey George,Laptop,Electronics,West,4.0,925.0,3700.0,Delivered
+ORD00192,2023-04-02,Jacob Brown,Headphones,,East,2.0,,842.0,
+ORD00193,2023-07-30,Harry James,Backpack,Accessories,North,2.0,264.0,528.0,Shipped
+ORD00194,2023-10-02,Shawn Marshall,Watch,Accessories,East,1.0,602.0,,
+ORD00195,,,Shoes,Footwear,East,1.0,366.0,366.0,
+ORD00196,,,Watch,Accessories,East,,916.0,1832.0,Delivered
+ORD00197,2023-11-26,Brian Williams,Laptop,Electronics,South,2.0,969.0,1938.0,Ordered
+ORD00198,2023-08-31,John Shah,Backpack,Accessories,,,117.0,234.0,Delivered
+ORD00199,2023-03-27,Marie Greer,Headphones,Electronics,South,3.0,775.0,2325.0,Delivered
+ORD00200,2023-12-16,Kristen Jones,Headphones,Electronics,North,4.0,427.0,1708.0,Ordered
+ORD00201,2023-09-01,Ronald Bennett,Headphones,Electronics,,2.0,,,Ordered
+ORD00202,2023-06-12,Heather Gonzalez,Backpack,Accessories,East,2.0,,1592.0,Shipped
+ORD00203,,Jackie Moore,Shoes,Footwear,South,4.0,572.0,,Ordered
+ORD00204,,Jennifer Nguyen,Laptop,Electronics,South,4.0,748.0,2992.0,Ordered
+ORD00205,2023-02-18,David Newton,,Accessories,North,4.0,477.0,1908.0,Returned
+ORD00206,2023-04-29,Erin Smith,Watch,Accessories,,2.0,261.0,522.0,Ordered
+,2023-05-10,Larry Cummings,Backpack,Accessories,East,2.0,939.0,,Delivered
+ORD00208,2023-09-23,Nicholas Cox,Backpack,Accessories,West,4.0,312.0,,Returned
+ORD00209,2023-08-20,David Newton,Smartphone,Electronics,North,3.0,325.0,975.0,Ordered
+ORD00210,2023-02-03,Henry Thomas,Watch,Accessories,South,4.0,407.0,1628.0,Ordered
+ORD00211,2023-03-07,Karen Olsen,Headphones,Electronics,East,5.0,176.0,880.0,Ordered
+ORD00212,2023-10-27,Timothy Frazier,Backpack,Accessories,South,4.0,,1704.0,Ordered
+ORD00213,2023-10-13,Kelly Collins,T-Shirt,,West,3.0,80.0,240.0,Delivered
+ORD00214,2023-10-08,Andrew Shields,Smartphone,Electronics,South,5.0,,4640.0,Shipped
+ORD00215,,Megan Guzman,,Electronics,West,2.0,93.0,186.0,Delivered
+ORD00216,2023-03-26,David Newton,Shoes,Footwear,East,,377.0,1885.0,Shipped
+,2023-07-30,Lauren Wilson,,,South,2.0,951.0,1902.0,Ordered
+ORD00218,2023-04-03,,Smartphone,Electronics,South,,726.0,2904.0,Delivered
+ORD00219,2023-08-03,Adrienne Olsen,Laptop,Electronics,South,3.0,842.0,2526.0,Ordered
+,,Grant Morgan,Laptop,Electronics,East,,81.0,,Ordered
+ORD00221,2023-05-29,Michelle Herring,Shoes,Footwear,South,5.0,930.0,4650.0,Shipped
+ORD00222,2023-03-02,Kelly Collins,Headphones,Electronics,North,2.0,813.0,1626.0,Returned
+ORD00223,,Christopher Gibson,Smartphone,Electronics,,2.0,831.0,1662.0,Returned
+ORD00224,2023-12-07,,Backpack,Accessories,East,4.0,556.0,2224.0,Shipped
+ORD00225,,Ronald Bennett,Headphones,Electronics,,1.0,,,
+ORD00226,2023-08-11,Angel Smith,Smartphone,Electronics,,5.0,374.0,1870.0,Shipped
+ORD00227,2023-09-07,Daniel Mendoza,Shoes,Footwear,,1.0,822.0,,Ordered
+ORD00228,2023-10-06,Jessica Jones,T-Shirt,Apparel,North,2.0,990.0,,Ordered
+ORD00229,2023-11-10,Jennifer Garcia,,Apparel,West,,,686.0,
+ORD00230,2023-09-25,,T-Shirt,Apparel,North,,937.0,3748.0,Delivered
+,2023-01-31,,,Electronics,West,1.0,,,Shipped
+ORD00232,2023-03-21,Jacob Brown,Shoes,Footwear,West,2.0,761.0,1522.0,Shipped
+,2023-01-28,Robert Ford,,Footwear,North,2.0,,,
+ORD00234,2023-07-16,Steven Mathis,T-Shirt,Apparel,East,2.0,,482.0,Ordered
+ORD00235,2023-10-21,Ronald Bennett,T-Shirt,Apparel,,2.0,483.0,966.0,Ordered
+ORD00236,2023-12-28,,,Accessories,West,4.0,761.0,3044.0,Ordered
+ORD00237,2023-01-08,Richard Palmer,Laptop,Electronics,,2.0,870.0,1740.0,Delivered
+ORD00238,2023-10-14,Michael Cabrera,Watch,Accessories,West,2.0,594.0,1188.0,Ordered
+ORD00239,,Warren Scott,Laptop,Electronics,West,4.0,294.0,,Delivered
+ORD00240,2023-04-01,Angel Smith,T-Shirt,Apparel,North,1.0,672.0,672.0,Shipped
+ORD00241,2023-09-22,Jennifer Garcia,Smartphone,Electronics,North,1.0,,57.0,Ordered
+ORD00242,,Sarah Guerrero,,Apparel,East,2.0,913.0,1826.0,Shipped
+ORD00243,,Kelly Collins,Smartphone,Electronics,South,,150.0,750.0,Ordered
+ORD00244,2023-10-16,Steven Mathis,Watch,Accessories,,3.0,477.0,1431.0,Ordered
+ORD00245,2023-06-15,Jennifer Nguyen,Laptop,Electronics,West,1.0,623.0,623.0,Ordered
+ORD00246,2023-08-25,Steven Mathis,Smartphone,Electronics,,3.0,154.0,462.0,Shipped
+,2023-11-09,Nicholas Cox,Smartphone,Electronics,West,1.0,,85.0,Delivered
+ORD00248,2023-07-11,Craig Andrews,Headphones,Electronics,East,2.0,383.0,766.0,Shipped
+ORD00249,2023-09-16,Heather Gonzalez,Watch,Accessories,,1.0,200.0,,Ordered
+ORD00250,2023-10-30,Candace Todd,Backpack,Accessories,,1.0,578.0,578.0,Returned
+ORD00251,2023-10-23,,Backpack,Accessories,West,4.0,672.0,2688.0,Returned
+ORD00252,2023-05-01,,Headphones,Electronics,,1.0,125.0,125.0,Shipped
+,,Jennifer Garcia,Watch,Accessories,,1.0,,178.0,
+ORD00254,,Blake Pacheco,,,South,4.0,600.0,,Shipped
+ORD00255,2023-02-25,Henry Thomas,Watch,Accessories,South,5.0,929.0,4645.0,Delivered
+ORD00256,2023-10-30,Robert Ford,,Footwear,West,1.0,811.0,,Shipped
+ORD00257,2023-07-21,Richard Hall,,Electronics,East,4.0,925.0,3700.0,Ordered
+ORD00258,2023-10-26,,Backpack,Accessories,North,2.0,593.0,1186.0,Shipped
+ORD00259,2023-04-24,,Smartphone,,East,4.0,967.0,3868.0,
+ORD00260,2023-05-31,Andrew Holden,Backpack,Accessories,South,4.0,707.0,2828.0,Shipped
+ORD00261,2023-01-01,Thomas Rasmussen,T-Shirt,Apparel,North,3.0,934.0,,Returned
+ORD00262,2023-11-24,Thomas Moss,Shoes,Footwear,East,3.0,706.0,2118.0,Ordered
+ORD00263,2023-01-27,Adrienne Olsen,,Apparel,South,2.0,407.0,814.0,Shipped
+ORD00264,2023-03-19,Andrew Santiago,Watch,Accessories,East,4.0,555.0,,Delivered
+ORD00265,2023-02-06,Mr. Anthony Barnes,Shoes,,South,2.0,917.0,1834.0,Ordered
+ORD00266,2023-06-30,Nicholas Cox,T-Shirt,Apparel,West,2.0,713.0,1426.0,Shipped
+ORD00267,2023-01-16,Andrew Shields,Shoes,Footwear,South,2.0,603.0,1206.0,Ordered
+ORD00268,2023-01-28,,,Electronics,South,4.0,420.0,1680.0,Ordered
+ORD00269,2023-01-27,Heather Gonzalez,,Apparel,South,1.0,863.0,863.0,Ordered
+,,Daniel Stewart,Smartphone,Electronics,East,4.0,232.0,928.0,Ordered
+ORD00271,2023-10-06,Brian Williams,,Electronics,North,2.0,,824.0,Shipped
+ORD00272,2023-09-20,Candace Todd,Shoes,Footwear,North,1.0,769.0,,Shipped
+ORD00273,2023-09-27,David Newton,Watch,,North,,177.0,531.0,Delivered
+ORD00274,2023-09-24,James Moore,Headphones,Electronics,West,,107.0,,Ordered
+ORD00275,2023-07-30,Denise Ward,Smartphone,Electronics,North,5.0,794.0,3970.0,Shipped
+ORD00276,2023-06-07,Shannon Vasquez,T-Shirt,Apparel,West,1.0,578.0,578.0,Shipped
+ORD00277,2023-10-10,Maria Gill,,Accessories,East,4.0,,2112.0,
+ORD00278,2023-03-02,Beth Schroeder,Shoes,Footwear,North,2.0,769.0,1538.0,Shipped
+ORD00279,2023-01-20,Jennifer Nguyen,T-Shirt,,East,3.0,251.0,753.0,Shipped
+,2023-01-20,Nicholas Cox,Backpack,,West,2.0,973.0,1946.0,Delivered
+ORD00281,,James Moore,Shoes,Footwear,North,2.0,193.0,386.0,Delivered
+,2023-07-09,Jennifer Garcia,Smartphone,Electronics,South,2.0,,1470.0,Shipped
+ORD00283,2023-04-06,,Backpack,,South,5.0,835.0,4175.0,Ordered
+ORD00284,2023-12-26,Thomas Rasmussen,,Electronics,East,2.0,940.0,1880.0,Shipped
+ORD00285,2023-08-24,Mr. Anthony Barnes,Shoes,Footwear,East,2.0,,928.0,
+ORD00286,2023-12-26,Lindsey George,Smartphone,Electronics,East,4.0,459.0,1836.0,Ordered
+ORD00287,2023-02-11,Karen Olsen,Smartphone,Electronics,East,2.0,607.0,1214.0,Ordered
+ORD00288,2023-07-22,Randy Perez,Shoes,Footwear,East,5.0,679.0,3395.0,
+ORD00289,,,Headphones,Electronics,,,830.0,,Ordered
+ORD00290,2023-07-02,Nicholas Gray PhD,T-Shirt,Apparel,North,3.0,468.0,1404.0,Ordered
+ORD00291,2023-09-05,Randall Brewer,,Electronics,North,1.0,70.0,70.0,Ordered
+ORD00292,2023-02-03,Candace Todd,Backpack,Accessories,North,4.0,898.0,3592.0,Ordered
+ORD00293,2023-06-14,Randy Perez,Headphones,Electronics,East,5.0,396.0,1980.0,Returned
+ORD00294,2023-04-22,Lindsay Williams,T-Shirt,Apparel,North,4.0,,1456.0,Returned
+ORD00295,2023-11-04,,Laptop,Electronics,East,4.0,674.0,2696.0,Shipped
+,2023-11-04,Brian Williams,Shoes,Footwear,,3.0,614.0,1842.0,Ordered
+ORD00297,2023-12-09,Denise Cole,Shoes,Footwear,West,5.0,606.0,3030.0,Delivered
+ORD00298,2023-03-01,Shawn Marshall,Shoes,Footwear,East,1.0,,787.0,Ordered
+ORD00299,2023-07-23,Sarah Guerrero,Watch,Accessories,West,1.0,281.0,281.0,Shipped
+ORD00300,2023-06-01,Erin Smith,Watch,Accessories,North,4.0,,3200.0,Ordered
+ORD00301,2023-03-09,Sean Kent,Smartphone,Electronics,East,3.0,302.0,,Ordered
+ORD00302,2023-07-04,,,Footwear,East,2.0,340.0,680.0,Ordered
+ORD00303,2023-09-09,Lindsey George,,Electronics,East,5.0,642.0,,Shipped
+ORD00304,2023-06-02,Lauren Wilson,Backpack,Accessories,West,2.0,756.0,1512.0,
+ORD00305,2023-08-19,Carla Hill,,Apparel,,5.0,993.0,4965.0,Shipped
+,2023-11-09,Marie Greer,Headphones,Electronics,West,3.0,745.0,,Returned
+ORD00307,2023-10-01,Corey Montgomery,Shoes,Footwear,East,5.0,283.0,1415.0,Delivered
+ORD00308,2023-06-06,Beth Schroeder,Shoes,,West,1.0,897.0,897.0,Shipped
+ORD00309,2023-12-27,Nicholas Gray PhD,Shoes,Footwear,East,,331.0,331.0,Ordered
+ORD00310,2023-09-12,Jill Boyle,Headphones,Electronics,West,2.0,948.0,1896.0,Delivered
+ORD00311,2023-07-21,Jill Boyle,Shoes,Footwear,South,2.0,706.0,1412.0,Delivered
+ORD00312,2023-02-27,Andrew Santiago,Laptop,Electronics,East,,602.0,3010.0,Shipped
+ORD00313,2023-09-12,Randall Brewer,Headphones,Electronics,South,2.0,626.0,1252.0,Ordered
+ORD00314,2023-09-19,Barbara Sanchez,,,South,2.0,673.0,1346.0,Shipped
+ORD00315,2023-07-13,Michelle Herring,Laptop,Electronics,South,,857.0,4285.0,Delivered
+ORD00316,2023-02-09,Dylan Davis,,Apparel,North,1.0,600.0,,Returned
+ORD00317,2023-10-11,Ronald Bennett,Shoes,Footwear,East,4.0,417.0,1668.0,Ordered
+ORD00318,2023-11-26,,,Accessories,West,5.0,500.0,2500.0,Ordered
+ORD00319,2023-08-31,Megan Guzman,Smartphone,Electronics,South,1.0,952.0,,Shipped
+ORD00320,2023-08-19,Brian Williams,,Electronics,,2.0,669.0,1338.0,Ordered
+ORD00321,2023-09-13,John Garcia,Watch,Accessories,,3.0,199.0,597.0,Ordered
+ORD00322,2023-10-21,Randy Perez,Laptop,Electronics,South,4.0,544.0,2176.0,
+ORD00323,2023-01-05,Jennifer Nguyen,Smartphone,Electronics,East,1.0,351.0,,
+ORD00324,2023-02-10,Robert Ford,Headphones,Electronics,West,3.0,606.0,1818.0,Ordered
+ORD00325,,Seth Cook,Watch,Accessories,West,4.0,123.0,492.0,Delivered
+ORD00326,2023-09-11,Jacob Brown,Watch,Accessories,,,313.0,1252.0,Ordered
+ORD00327,2023-09-02,Erin Smith,Backpack,,East,3.0,977.0,2931.0,Shipped
+ORD00328,2023-03-05,Michael Smith,Headphones,Electronics,East,5.0,895.0,4475.0,Delivered
+ORD00329,,David Newton,Smartphone,Electronics,West,2.0,905.0,1810.0,Ordered
+ORD00330,,Sarah Vazquez,Laptop,Electronics,North,,63.0,126.0,Shipped
+ORD00331,2023-01-01,Carmen Saunders,,Accessories,West,,240.0,1200.0,Ordered
+ORD00332,2023-07-31,Shawn Marshall,Backpack,Accessories,South,1.0,917.0,917.0,Delivered
+ORD00333,2023-11-23,Megan Guzman,Watch,Accessories,South,1.0,169.0,169.0,Ordered
+ORD00334,2023-09-19,David Newton,Headphones,Electronics,South,,241.0,241.0,Delivered
+,2023-02-19,Andrew Holden,Backpack,Accessories,,2.0,356.0,712.0,Ordered
+ORD00336,2023-05-05,,Backpack,Accessories,South,3.0,411.0,1233.0,Shipped
+ORD00337,2023-10-12,,Shoes,Footwear,North,2.0,570.0,1140.0,Ordered
+,2023-03-04,Sarah Harding,Backpack,Accessories,,3.0,,2991.0,Shipped
+ORD00339,2023-10-18,Jason Martin,Backpack,Accessories,East,5.0,,1170.0,Delivered
+ORD00340,2023-04-03,Angel Smith,Laptop,Electronics,North,,311.0,,Ordered
+ORD00341,2023-03-04,,Laptop,Electronics,South,4.0,379.0,1516.0,Shipped
+ORD00342,2023-08-03,Kelly Collins,,Electronics,North,3.0,161.0,,Ordered
+ORD00343,2023-01-01,Mr. Anthony Barnes,Watch,Accessories,West,3.0,477.0,1431.0,Ordered
+ORD00344,,Blake Pacheco,Laptop,Electronics,South,4.0,151.0,604.0,
+ORD00345,2023-12-26,Jessica Jones,Headphones,Electronics,South,3.0,606.0,1818.0,Ordered
+ORD00346,,Rebecca Jackson,T-Shirt,Apparel,West,,127.0,,
+ORD00347,2023-02-28,Candace Todd,Backpack,Accessories,South,3.0,723.0,2169.0,Shipped
+,,,Shoes,Footwear,,5.0,39.0,195.0,Shipped
+ORD00349,,Adrienne Olsen,Headphones,Electronics,North,,436.0,872.0,Returned
+ORD00350,,,,Electronics,North,3.0,617.0,1851.0,Shipped
+ORD00351,2023-08-13,Brian Ayala,Smartphone,Electronics,East,5.0,560.0,2800.0,Shipped
+ORD00352,2023-02-24,Randall Brewer,T-Shirt,Apparel,East,1.0,556.0,556.0,Ordered
+ORD00353,2023-11-04,William Harris,T-Shirt,Apparel,North,4.0,302.0,1208.0,Shipped
+ORD00354,2023-10-11,Jennifer Smith,Laptop,Electronics,,4.0,740.0,2960.0,Ordered
+ORD00355,2023-03-03,Sarah Harding,Smartphone,Electronics,North,4.0,930.0,3720.0,Delivered
+ORD00356,2023-09-18,Jackie Moore,Laptop,Electronics,East,2.0,206.0,412.0,Shipped
+ORD00357,2023-12-22,Denise Ward,Headphones,Electronics,South,3.0,990.0,,Shipped
+ORD00358,2023-11-03,Henry Thomas,Headphones,Electronics,East,4.0,332.0,1328.0,
+ORD00359,,Henry Thomas,Backpack,Accessories,West,1.0,241.0,241.0,Delivered
+ORD00360,2023-06-16,,Laptop,Electronics,South,1.0,808.0,808.0,Ordered
+ORD00361,2023-02-06,Blake Pacheco,Backpack,,East,2.0,228.0,456.0,Delivered
+ORD00362,2023-08-10,Harold Brown,Smartphone,Electronics,West,2.0,792.0,1584.0,Delivered
+ORD00363,2023-10-20,Blake Pacheco,Laptop,Electronics,West,,905.0,1810.0,Ordered
+ORD00364,2023-10-30,Shawn Marshall,Laptop,Electronics,North,3.0,631.0,1893.0,Ordered
+ORD00365,,Robert Simmons,T-Shirt,Apparel,East,,,1632.0,Ordered
+ORD00366,2023-08-21,Michael Cabrera,Smartphone,Electronics,South,1.0,994.0,994.0,Shipped
+ORD00367,,Jennifer Garcia,Shoes,Footwear,West,4.0,858.0,3432.0,Delivered
+ORD00368,2023-04-04,James Moore,T-Shirt,Apparel,North,2.0,358.0,716.0,Ordered
+,,,Backpack,Accessories,North,1.0,669.0,669.0,Ordered
+ORD00370,2023-05-17,Marie Greer,Laptop,Electronics,South,,992.0,992.0,Ordered
+ORD00371,2023-05-31,Brittany Higgins,T-Shirt,Apparel,South,5.0,37.0,185.0,Returned
+ORD00372,2023-09-03,Adrienne Olsen,Headphones,Electronics,West,2.0,50.0,100.0,Shipped
+ORD00373,2023-08-29,,,,West,,952.0,1904.0,Ordered
+ORD00374,,,T-Shirt,,South,1.0,695.0,695.0,Delivered
+ORD00375,2023-01-02,,Laptop,Electronics,North,5.0,444.0,2220.0,Delivered
+,2023-08-30,Sean Kent,Watch,,East,5.0,257.0,1285.0,Ordered
+,2023-10-09,Denise Ward,Watch,Accessories,South,2.0,560.0,,Delivered
+ORD00378,2023-08-26,Erik Green,Watch,Accessories,East,4.0,855.0,3420.0,Ordered
+ORD00379,2023-12-20,Carla Hill,Shoes,,East,3.0,348.0,1044.0,
+ORD00380,2023-07-09,,Backpack,Accessories,South,,757.0,3028.0,Returned
+ORD00381,2023-04-12,Harold Brown,Laptop,Electronics,West,5.0,845.0,4225.0,Ordered
+ORD00382,2023-03-25,Adrienne Olsen,Watch,Accessories,East,4.0,923.0,3692.0,Returned
+ORD00383,2023-04-04,Erik Green,Shoes,Footwear,South,2.0,664.0,1328.0,Shipped
+ORD00384,2023-03-10,Denise Cole,Headphones,Electronics,East,2.0,,1898.0,Delivered
+ORD00385,,Cindy Meyer,T-Shirt,Apparel,North,,443.0,1329.0,Ordered
+,2023-08-05,,Headphones,Electronics,,4.0,845.0,3380.0,Delivered
+ORD00387,2023-10-19,Cindy Meyer,,Electronics,North,,710.0,2130.0,Ordered
+ORD00388,2023-04-06,Adrienne Olsen,Smartphone,,,2.0,446.0,892.0,Ordered
+ORD00389,2023-03-16,Denise Barrett,Laptop,Electronics,West,3.0,,2988.0,Shipped
+,,Lauren Wilson,T-Shirt,Apparel,South,3.0,489.0,1467.0,Shipped
+ORD00391,2023-12-15,,Backpack,Accessories,West,2.0,889.0,1778.0,Ordered
+,,Corey Montgomery,Watch,Accessories,North,,997.0,997.0,Shipped
+,,Andrew Holden,T-Shirt,Apparel,,4.0,,3756.0,Delivered
+ORD00394,2023-03-14,Harold Brown,,Electronics,West,3.0,366.0,1098.0,
+ORD00395,2023-01-01,Jackie Moore,T-Shirt,Apparel,East,3.0,273.0,819.0,Delivered
+,2023-03-09,Robert Simmons,Smartphone,Electronics,South,5.0,791.0,,Ordered
+,2023-05-04,Shannon Vasquez,,Electronics,South,2.0,510.0,1020.0,Shipped
+ORD00398,2023-07-24,,,Footwear,North,3.0,634.0,,Shipped
+ORD00399,2023-12-14,Harold Brown,Headphones,Electronics,West,4.0,764.0,3056.0,Shipped
+ORD00400,,Carmen Saunders,Laptop,Electronics,West,4.0,402.0,1608.0,Shipped
+ORD00401,2023-04-16,Randall Brewer,,Accessories,South,5.0,,,Ordered
+,2023-01-03,Maria Gill,Headphones,Electronics,South,,217.0,651.0,Returned
+ORD00403,2023-09-25,,Headphones,,East,4.0,43.0,172.0,Shipped
+ORD00404,2023-04-13,Shawn Marshall,Laptop,Electronics,South,4.0,69.0,,Delivered
+ORD00405,2023-03-05,,Laptop,,South,5.0,238.0,1190.0,Ordered
+ORD00406,2023-06-11,Audrey Cook,Backpack,Accessories,East,3.0,278.0,834.0,Ordered
+ORD00407,2023-08-26,Andrew Santiago,Shoes,Footwear,East,,863.0,,Delivered
+ORD00408,2023-06-27,Richard Palmer,,Electronics,North,,399.0,1197.0,Delivered
+ORD00409,2023-10-04,Steven Mathis,Watch,Accessories,,1.0,390.0,390.0,Ordered
+,2023-10-09,Daniel Mendoza,T-Shirt,,North,3.0,878.0,2634.0,Shipped
+ORD00411,2023-05-17,,Headphones,,South,2.0,523.0,1046.0,Ordered
+ORD00412,2023-09-29,Shawn Marshall,Watch,Accessories,South,4.0,961.0,3844.0,Delivered
+ORD00413,2023-08-21,Marie Greer,Smartphone,,East,1.0,965.0,965.0,Ordered
+ORD00414,,James Moore,T-Shirt,Apparel,North,3.0,927.0,2781.0,Ordered
+ORD00415,2023-09-28,John Roman,Laptop,,South,,788.0,,Ordered
+ORD00416,2023-01-23,Tyler Clark PhD,Smartphone,,West,5.0,813.0,4065.0,Ordered
+,2023-01-09,Carmen Saunders,Laptop,Electronics,East,3.0,69.0,207.0,Ordered
+ORD00418,2023-10-28,Mr. Anthony Barnes,T-Shirt,Apparel,,4.0,945.0,3780.0,Delivered
+ORD00419,2023-04-26,Vanessa Rush,T-Shirt,Apparel,,2.0,,1584.0,Ordered
+,,,Headphones,Electronics,North,1.0,624.0,624.0,Shipped
+ORD00421,2023-01-20,Lindsay Williams,T-Shirt,Apparel,North,4.0,446.0,1784.0,Ordered
+ORD00422,2023-04-03,Jenna Walker,Watch,,East,1.0,486.0,486.0,
+ORD00423,2023-12-18,Harold Brown,Watch,Accessories,South,5.0,803.0,4015.0,Shipped
+ORD00424,2023-12-23,Victoria Fernandez,T-Shirt,Apparel,West,1.0,894.0,894.0,Ordered
+ORD00425,2023-12-06,Ronald Bennett,T-Shirt,Apparel,South,1.0,,314.0,Shipped
+ORD00426,2023-01-21,Blake Pacheco,Backpack,Accessories,South,1.0,221.0,221.0,Shipped
+ORD00427,2023-09-17,,Smartphone,Electronics,North,4.0,422.0,1688.0,Shipped
+ORD00428,2023-09-03,Shawn Marshall,Backpack,Accessories,,3.0,759.0,2277.0,Delivered
+ORD00429,2023-03-20,Lindsay Williams,Headphones,Electronics,South,3.0,175.0,525.0,Shipped
+ORD00430,2023-07-07,Jacob Brown,Shoes,Footwear,North,4.0,885.0,3540.0,Shipped
+ORD00431,2023-07-31,Sarah Vazquez,Shoes,Footwear,South,3.0,585.0,1755.0,Shipped
+ORD00432,2023-09-25,Jacob Brown,Backpack,Accessories,West,1.0,,191.0,Ordered
+ORD00433,2023-11-25,Erin Smith,Backpack,Accessories,South,3.0,425.0,1275.0,Delivered
+ORD00434,2023-01-20,Robert Simmons,Shoes,Footwear,North,1.0,411.0,411.0,Ordered
+,2023-10-14,Craig Andrews,Laptop,,East,4.0,,2920.0,Shipped
+ORD00436,2023-11-07,Carla Hill,,Accessories,South,3.0,666.0,1998.0,Shipped
+ORD00437,2023-11-23,Jennifer Vincent,Backpack,,South,3.0,105.0,315.0,
+,,Brian Ayala,Backpack,Accessories,North,5.0,931.0,4655.0,Delivered
+ORD00439,2023-08-02,Anthony Williams,T-Shirt,Apparel,East,3.0,555.0,1665.0,
+ORD00440,2023-09-03,Brittany Higgins,Watch,Accessories,East,3.0,220.0,660.0,Shipped
+ORD00441,2023-08-13,Denise Cole,Shoes,Footwear,East,,,,Ordered
+,2023-05-23,,Laptop,Electronics,West,5.0,62.0,310.0,Delivered
+,2023-10-02,Adrienne Olsen,Headphones,Electronics,East,5.0,439.0,2195.0,Shipped
+ORD00444,2023-11-20,Sarah Vazquez,,Electronics,South,4.0,710.0,2840.0,Ordered
+ORD00445,2023-10-03,Nicholas Gray PhD,Smartphone,Electronics,,2.0,471.0,,Shipped
+,,Marie Greer,Watch,Accessories,West,2.0,137.0,274.0,Returned
+ORD00447,2023-12-09,Jennifer Smith,Headphones,Electronics,,,613.0,2452.0,Ordered
+ORD00448,2023-01-24,Carmen Saunders,Laptop,Electronics,South,,127.0,381.0,Ordered
+ORD00449,2023-11-25,Michael Smith,Smartphone,,South,5.0,551.0,2755.0,Delivered
+ORD00450,2023-07-11,Daniel Stewart,,,South,5.0,619.0,3095.0,Ordered
+ORD00451,2023-01-31,,Headphones,Electronics,North,3.0,188.0,564.0,Ordered
+ORD00452,2023-06-02,Carla Hill,Smartphone,Electronics,West,1.0,950.0,950.0,Returned
+ORD00453,,Daniel Stewart,T-Shirt,Apparel,West,5.0,,5000.0,Shipped
+ORD00454,2023-12-23,Beth Schroeder,T-Shirt,Apparel,East,2.0,394.0,788.0,Ordered
+ORD00455,2023-09-18,,Watch,,East,5.0,560.0,2800.0,Ordered
+,2023-01-16,,Headphones,Electronics,,3.0,130.0,390.0,Ordered
+ORD00457,2023-03-09,Henry Thomas,Shoes,Footwear,North,,,1840.0,Ordered
+ORD00458,2023-08-09,Kevin Cross,Laptop,,South,3.0,417.0,1251.0,Ordered
+ORD00459,2023-07-13,Seth Cook,Backpack,Accessories,East,5.0,,2835.0,
+ORD00460,2023-11-06,Rebecca Jackson,Headphones,Electronics,,5.0,,4805.0,Ordered
+ORD00461,2023-03-31,Andrew Holden,Smartphone,Electronics,North,2.0,847.0,,
+,2023-08-13,Andrew Santiago,Shoes,,North,5.0,384.0,1920.0,Delivered
+ORD00463,2023-06-07,Karen Olsen,T-Shirt,Apparel,South,1.0,193.0,193.0,Ordered
+,2023-06-26,Jason Martin,Headphones,Electronics,South,2.0,470.0,940.0,Ordered
+ORD00465,2023-04-10,James Moore,Laptop,Electronics,South,2.0,411.0,822.0,Ordered
+ORD00466,2023-02-14,Brian Ayala,Headphones,Electronics,,5.0,837.0,4185.0,Ordered
+ORD00467,2023-01-06,,Backpack,Accessories,East,2.0,409.0,818.0,Delivered
+ORD00468,2023-08-04,Sarah Guerrero,Laptop,Electronics,,3.0,488.0,1464.0,Delivered
+ORD00469,2023-11-15,Jacob Torres,Laptop,,West,5.0,337.0,1685.0,Delivered
+ORD00470,2023-05-25,Brian Ayala,Shoes,Footwear,South,2.0,,,Delivered
+ORD00471,2023-11-14,,,Apparel,East,5.0,623.0,3115.0,Shipped
+,2023-08-16,Lauren Wilson,Backpack,Accessories,North,,75.0,75.0,Delivered
+ORD00473,2023-06-30,Megan Guzman,T-Shirt,,West,3.0,,2064.0,Shipped
+,,Jenna Walker,T-Shirt,,West,3.0,378.0,,Returned
+ORD00475,2023-10-14,Carla Hill,Shoes,,,4.0,67.0,268.0,Returned
+ORD00476,2023-12-05,Blake Pacheco,Smartphone,Electronics,,,,3064.0,Returned
+ORD00477,2023-06-20,Seth Cook,,Accessories,,5.0,482.0,2410.0,
+ORD00478,,Marie Greer,Shoes,Footwear,West,5.0,576.0,2880.0,Delivered
+ORD00479,2023-08-13,Jackie Moore,T-Shirt,Apparel,West,4.0,275.0,1100.0,Shipped
+ORD00480,2023-12-17,Jennifer Smith,Watch,Accessories,North,1.0,135.0,135.0,Delivered
+ORD00481,,Denise Barrett,Backpack,Accessories,South,5.0,959.0,,Ordered
+ORD00482,2023-10-29,Jenna Walker,Shoes,Footwear,West,4.0,262.0,1048.0,Ordered
+ORD00483,2023-06-21,Craig Andrews,Shoes,Footwear,North,2.0,747.0,1494.0,Delivered
+ORD00484,2023-06-15,Andrew Santiago,Shoes,,South,4.0,844.0,3376.0,Delivered
+,2023-02-20,Jennifer Garcia,Smartphone,,South,1.0,376.0,376.0,Returned
+ORD00486,2023-09-21,Jacob Brown,Backpack,Accessories,South,1.0,886.0,886.0,Ordered
+ORD00487,2023-08-07,Daniel Hamilton,T-Shirt,Apparel,East,1.0,595.0,595.0,Delivered
+ORD00488,2023-04-14,Gregory Miller,Watch,Accessories,West,3.0,,2328.0,Ordered
+ORD00489,2023-12-28,Corey Montgomery,Shoes,Footwear,West,,438.0,2190.0,Shipped
+ORD00490,,,T-Shirt,Apparel,South,3.0,203.0,609.0,Ordered
+ORD00491,2023-06-06,Nicholas Cox,Laptop,Electronics,West,4.0,245.0,980.0,Shipped
+ORD00492,,Ronald Bennett,Smartphone,Electronics,South,3.0,,1890.0,Ordered
+ORD00493,,Nicholas Gray PhD,Smartphone,Electronics,West,,561.0,561.0,Ordered
+ORD00494,2023-08-13,Michael Contreras,Watch,Accessories,North,1.0,810.0,810.0,Delivered
+ORD00495,2023-05-01,Richard Hall,Shoes,Footwear,North,4.0,540.0,2160.0,Shipped
+,2023-03-12,Blake Pacheco,Shoes,Footwear,East,2.0,508.0,1016.0,Ordered
+ORD00497,2023-06-17,Jennifer Vincent,Watch,Accessories,West,,,217.0,Delivered
+ORD00498,2023-02-01,Angel Smith,Backpack,Accessories,South,1.0,900.0,900.0,Returned
+,2023-04-21,,T-Shirt,Apparel,North,5.0,497.0,2485.0,Ordered
+,2023-10-07,Michael Smith,,Electronics,West,2.0,495.0,990.0,Delivered
+ORD00501,2023-02-01,James Moore,Backpack,Accessories,,1.0,335.0,335.0,Delivered
+ORD00502,2023-05-08,Carla Hill,Backpack,Accessories,,5.0,194.0,970.0,Ordered
+,2023-09-26,Michael Smith,Headphones,,East,,,2568.0,Ordered
+,2023-10-10,John Garcia,Backpack,Accessories,North,4.0,79.0,316.0,
+,2023-02-05,,Shoes,Footwear,East,1.0,636.0,636.0,Delivered
+,,Rebecca Jackson,Shoes,,West,5.0,728.0,3640.0,
+ORD00507,2023-08-15,Beth Schroeder,T-Shirt,Apparel,North,1.0,731.0,731.0,Returned
+,2023-10-26,Sarah Harding,,Apparel,South,4.0,,180.0,Shipped
+ORD00509,2023-03-09,Harold Brown,Headphones,Electronics,North,4.0,,2696.0,Ordered
+ORD00510,2023-06-04,Rebecca Rojas,,Electronics,West,4.0,76.0,,Delivered
+,2023-02-12,,Shoes,,South,1.0,,,Ordered
+ORD00512,2023-11-28,Seth Cook,Headphones,Electronics,South,1.0,,454.0,Returned
+ORD00513,2023-03-02,,,,,1.0,688.0,688.0,Returned
+ORD00514,2023-11-09,William Atkinson,Watch,Accessories,South,2.0,182.0,364.0,Ordered
+ORD00515,2023-09-08,Shannon Vasquez,Headphones,Electronics,West,3.0,468.0,1404.0,Delivered
+ORD00516,2023-06-02,Daniel Mendoza,T-Shirt,Apparel,,5.0,,,Ordered
+ORD00517,,Thomas Moss,Shoes,Footwear,East,1.0,526.0,526.0,Ordered
+ORD00518,2023-03-18,Jennifer Smith,T-Shirt,Apparel,,,691.0,2764.0,
+ORD00519,2023-04-26,Ronald Bennett,Backpack,Accessories,East,4.0,,3660.0,Ordered
+ORD00520,,Henry Thomas,Headphones,Electronics,East,4.0,303.0,1212.0,Delivered
+ORD00521,2023-08-13,Denise Ward,T-Shirt,Apparel,West,,896.0,2688.0,Delivered
+,2023-01-24,Anthony Williams,Watch,Accessories,West,4.0,,656.0,Ordered
+ORD00523,2023-05-27,Denise Ward,Watch,Accessories,North,3.0,75.0,225.0,Returned
+ORD00524,2023-05-08,Angel Smith,,Footwear,South,2.0,485.0,970.0,Shipped
+ORD00525,,Rebecca Jackson,Smartphone,,,5.0,672.0,3360.0,Shipped
+ORD00526,2023-08-29,,Headphones,Electronics,,,396.0,1584.0,
+ORD00527,2023-11-07,Sarah Vazquez,Shoes,Footwear,West,4.0,179.0,716.0,Ordered
+ORD00528,2023-01-16,Sarah Leblanc,Laptop,Electronics,North,3.0,208.0,624.0,Ordered
+ORD00529,2023-11-10,Larry Cummings,Backpack,Accessories,South,4.0,734.0,2936.0,Ordered
+ORD00530,2023-04-26,John Roman,Headphones,Electronics,North,4.0,740.0,2960.0,Shipped
+ORD00531,2023-07-16,Adrienne Olsen,Watch,Accessories,,4.0,222.0,888.0,Shipped
+ORD00532,2023-01-08,Carmen Saunders,T-Shirt,,South,,672.0,2688.0,Ordered
+ORD00533,2023-11-22,Monica Shelton,Laptop,Electronics,West,1.0,125.0,125.0,Ordered
+ORD00534,2023-01-09,Gregory Miller,Watch,Accessories,South,2.0,,580.0,Shipped
+ORD00535,2023-01-16,Kelly Collins,Smartphone,Electronics,West,1.0,423.0,423.0,Shipped
+ORD00536,2023-05-17,Sheila Bush,Headphones,Electronics,North,3.0,272.0,816.0,Delivered
+ORD00537,,James Moore,T-Shirt,Apparel,West,1.0,512.0,512.0,Shipped
+ORD00538,2023-04-24,Monica Shelton,T-Shirt,,North,4.0,165.0,660.0,Shipped
+ORD00539,2023-04-25,Jessica Jones,T-Shirt,Apparel,North,2.0,312.0,624.0,Returned
+ORD00540,2023-11-09,Lauren Wilson,Headphones,Electronics,,5.0,62.0,310.0,Shipped
+ORD00541,2023-01-30,Brian Williams,T-Shirt,Apparel,South,1.0,361.0,,Ordered
+ORD00542,2023-04-28,Jenna Walker,Headphones,Electronics,North,,875.0,875.0,Ordered
+ORD00543,2023-09-07,,Watch,Accessories,East,4.0,169.0,676.0,Ordered
+ORD00544,2023-06-11,Audrey Cook,Laptop,Electronics,South,2.0,760.0,1520.0,Ordered
+ORD00545,2023-08-10,Sean Kent,Shoes,Footwear,,5.0,313.0,1565.0,Shipped
+ORD00546,,,Laptop,Electronics,East,5.0,502.0,2510.0,Shipped
+ORD00547,,,Watch,,North,5.0,,995.0,Delivered
+ORD00548,2023-08-23,John Roman,T-Shirt,,South,4.0,,1972.0,Shipped
+ORD00549,2023-10-22,Barbara Sanchez,Laptop,Electronics,South,2.0,554.0,1108.0,Shipped
+ORD00550,2023-01-18,Karen Olsen,,Footwear,,,390.0,1170.0,Returned
+ORD00551,2023-09-22,Randall Brewer,T-Shirt,Apparel,,,770.0,3850.0,
+ORD00552,2023-04-28,Karen Olsen,Headphones,Electronics,West,5.0,781.0,3905.0,Delivered
+ORD00553,2023-12-03,Daniel Hamilton,Watch,Accessories,East,5.0,846.0,4230.0,Shipped
+ORD00554,2023-02-06,,Watch,Accessories,North,1.0,797.0,797.0,
+ORD00555,2023-01-01,Jacob Brown,Headphones,Electronics,South,5.0,26.0,130.0,Ordered
+ORD00556,2023-05-22,,Headphones,,,2.0,730.0,1460.0,
+ORD00557,2023-06-20,Jennifer Garcia,Watch,,South,4.0,760.0,3040.0,Delivered
+ORD00558,2023-02-03,Sarah Leblanc,Laptop,Electronics,South,5.0,116.0,580.0,
+ORD00559,2023-01-22,John Garcia,Smartphone,Electronics,South,3.0,,894.0,Delivered
+ORD00560,2023-06-04,Jennifer Smith,T-Shirt,Apparel,,4.0,90.0,360.0,Delivered
+ORD00561,2023-07-11,Shannon Vasquez,Shoes,Footwear,West,3.0,411.0,,Returned
+,2023-08-01,Lauren Wilson,T-Shirt,Apparel,South,4.0,472.0,1888.0,Shipped
+ORD00563,,Cindy Meyer,Headphones,Electronics,West,,953.0,,Shipped
+ORD00564,2023-11-05,Harold Brown,Smartphone,Electronics,,,93.0,372.0,
+ORD00565,2023-03-05,Victoria Fernandez,Watch,,,,181.0,905.0,Shipped
+,,Michael Cabrera,T-Shirt,,South,,906.0,3624.0,Ordered
+,2023-10-21,Michael Smith,Watch,Accessories,West,4.0,304.0,1216.0,Ordered
+ORD00568,2023-01-20,Jennifer Smith,Headphones,Electronics,North,4.0,586.0,2344.0,Delivered
+ORD00569,2023-12-17,,Backpack,Accessories,North,1.0,981.0,981.0,Delivered
+ORD00570,,Heather Gonzalez,Headphones,,North,5.0,758.0,3790.0,Delivered
+ORD00571,2023-06-25,Richard Hall,Watch,Accessories,West,5.0,385.0,1925.0,Ordered
+ORD00572,2023-07-15,,Laptop,Electronics,South,4.0,351.0,1404.0,
+ORD00573,2023-04-19,David Newton,Headphones,Electronics,West,3.0,49.0,,Returned
+ORD00574,,Anthony Williams,T-Shirt,Apparel,East,2.0,91.0,,
+ORD00575,2023-09-04,,Headphones,Electronics,East,1.0,,390.0,Delivered
+ORD00576,2023-11-19,Maria Gill,Headphones,Electronics,East,1.0,542.0,542.0,Ordered
+ORD00577,2023-10-13,Kendra Owens,Backpack,Accessories,,1.0,836.0,836.0,Returned
+ORD00578,2023-04-24,Sarah Vazquez,Smartphone,Electronics,,,931.0,931.0,Delivered
+ORD00579,2023-09-30,Sheila Bush,,Accessories,North,2.0,302.0,604.0,Returned
+ORD00580,2023-08-10,Shawn Marshall,Smartphone,Electronics,,3.0,424.0,,Shipped
+ORD00581,2023-11-26,Nicholas Cox,,Accessories,North,1.0,,89.0,Shipped
+ORD00582,2023-05-10,Richard Palmer,T-Shirt,Apparel,East,,718.0,2872.0,Ordered
+ORD00583,2023-03-17,Andrew Shields,Shoes,Footwear,East,5.0,176.0,880.0,Delivered
+ORD00584,2023-03-17,Jennifer Nguyen,T-Shirt,Apparel,East,5.0,443.0,2215.0,Ordered
+ORD00585,2023-09-17,William Harris,Headphones,Electronics,East,4.0,166.0,664.0,Ordered
+ORD00586,2023-04-05,Dylan Davis,Laptop,Electronics,North,3.0,672.0,2016.0,Shipped
+ORD00587,2023-08-17,Carla Hill,Watch,Accessories,South,5.0,,4195.0,Shipped
+ORD00588,,Carmen Saunders,Shoes,Footwear,North,3.0,,2502.0,Ordered
+ORD00589,2023-09-20,Vanessa Rush,Headphones,Electronics,West,2.0,515.0,1030.0,Ordered
+ORD00590,2023-12-01,Brian Williams,T-Shirt,Apparel,North,4.0,960.0,3840.0,Shipped
+ORD00591,2023-03-26,Candace Todd,T-Shirt,Apparel,East,5.0,568.0,2840.0,Shipped
+ORD00592,2023-12-12,Brittany Higgins,Watch,Accessories,South,5.0,152.0,760.0,Returned
+ORD00593,2023-08-25,Lauren Wilson,Headphones,Electronics,North,1.0,,309.0,Delivered
+ORD00594,2023-09-15,Maria Gill,Shoes,Footwear,East,5.0,578.0,2890.0,
+ORD00595,,Sean Kent,Watch,Accessories,West,3.0,262.0,786.0,Ordered
+ORD00596,2023-01-03,Michael Contreras,T-Shirt,Apparel,,1.0,108.0,108.0,Shipped
+ORD00597,2023-05-05,Kevin Cross,Smartphone,Electronics,South,1.0,312.0,312.0,Returned
+,2023-08-23,Larry Cummings,Watch,Accessories,East,2.0,456.0,912.0,Ordered
+ORD00599,2023-04-23,John Shah,Smartphone,Electronics,West,2.0,604.0,1208.0,Shipped
+ORD00600,2023-11-09,Nicholas Gray PhD,Watch,Accessories,East,2.0,346.0,692.0,Ordered
+ORD00601,2023-07-11,Andrew Santiago,T-Shirt,,East,5.0,458.0,,
+ORD00602,2023-12-08,Vanessa Rush,,Accessories,North,2.0,489.0,978.0,Ordered
+ORD00603,2023-07-09,Jill Boyle,Shoes,Footwear,West,3.0,433.0,1299.0,Ordered
+,2023-03-10,Jennifer Smith,Laptop,Electronics,South,4.0,839.0,,Ordered
+ORD00605,2023-07-14,Richard Palmer,,Accessories,West,2.0,113.0,226.0,Delivered
+ORD00606,2023-10-08,,Watch,Accessories,,5.0,824.0,4120.0,Ordered
+ORD00607,2023-10-24,,,,South,1.0,917.0,917.0,Shipped
+ORD00608,,Daniel Stewart,Laptop,Electronics,North,1.0,616.0,,Returned
+ORD00609,2023-03-20,Tyler Clark PhD,Watch,Accessories,North,1.0,119.0,,
+ORD00610,,Daniel Mendoza,Headphones,,North,3.0,889.0,2667.0,Ordered
+,2023-03-28,Jacob Torres,Backpack,Accessories,North,4.0,396.0,1584.0,Delivered
+,2023-03-02,Timothy Frazier,T-Shirt,Apparel,North,1.0,284.0,,Ordered
+ORD00613,,Lindsay Williams,T-Shirt,,,3.0,651.0,1953.0,
+ORD00614,2023-12-07,Kendra Owens,T-Shirt,Apparel,North,2.0,375.0,750.0,Ordered
+ORD00615,,Maria Gill,Headphones,Electronics,South,1.0,233.0,233.0,Shipped
+ORD00616,2023-10-13,Sarah Guerrero,Headphones,,,3.0,455.0,1365.0,Ordered
+ORD00617,2023-03-01,Robert Simmons,Headphones,Electronics,South,5.0,452.0,2260.0,
+ORD00618,2023-11-09,Heather Gonzalez,Shoes,Footwear,South,3.0,950.0,2850.0,Delivered
+ORD00619,2023-11-11,David Newton,T-Shirt,Apparel,East,3.0,645.0,1935.0,Delivered
+,2023-12-16,Jacob Torres,Watch,Accessories,North,3.0,632.0,1896.0,Returned
+ORD00621,2023-12-02,Nicholas Cox,Shoes,Footwear,West,5.0,86.0,430.0,Delivered
+ORD00622,2023-03-28,John Roman,Shoes,Footwear,North,2.0,367.0,734.0,Delivered
+ORD00623,2023-01-17,Seth Cook,Headphones,Electronics,,2.0,,,Ordered
+,2023-08-07,,Headphones,Electronics,West,,104.0,104.0,Shipped
+ORD00625,,Sarah Guerrero,Watch,Accessories,East,,284.0,,Ordered
+ORD00626,2023-04-02,,Backpack,Accessories,West,1.0,272.0,272.0,
+ORD00627,2023-10-25,Timothy Frazier,Smartphone,Electronics,South,3.0,543.0,1629.0,Delivered
+,2023-09-16,,T-Shirt,Apparel,East,2.0,555.0,1110.0,Shipped
+ORD00629,2023-12-26,Jason Martin,T-Shirt,Apparel,West,3.0,443.0,1329.0,Returned
+ORD00630,2023-06-16,Randall Brewer,Laptop,Electronics,North,4.0,875.0,3500.0,Shipped
+ORD00631,,Brittany Higgins,Backpack,Accessories,West,3.0,164.0,492.0,Ordered
+ORD00632,2023-02-11,Andrew Santiago,Smartphone,Electronics,East,3.0,270.0,810.0,Shipped
+ORD00633,2023-06-16,Brittany Higgins,Shoes,Footwear,West,2.0,805.0,1610.0,
+ORD00634,2023-04-25,Maria Gill,Smartphone,Electronics,,2.0,,,
+ORD00635,2023-12-26,Kristen Jones,,Accessories,South,1.0,807.0,807.0,Ordered
+ORD00636,2023-04-05,,Laptop,Electronics,North,4.0,918.0,3672.0,Ordered
+ORD00637,2023-12-30,Jill Boyle,,Footwear,East,2.0,578.0,1156.0,Delivered
+ORD00638,2023-12-25,,Laptop,Electronics,South,,422.0,,Shipped
+ORD00639,,Mallory Lopez,,Apparel,West,2.0,863.0,1726.0,Delivered
+ORD00640,2023-05-11,Lindsay Williams,Backpack,,,4.0,30.0,120.0,
+ORD00641,2023-02-25,,T-Shirt,Apparel,North,2.0,,340.0,Delivered
+ORD00642,2023-02-01,Jenna Walker,Backpack,Accessories,West,,,1860.0,Returned
+ORD00643,2023-08-12,Thomas Moss,,Apparel,West,3.0,853.0,2559.0,Delivered
+ORD00644,2023-01-16,Rebecca Jackson,T-Shirt,Apparel,North,3.0,676.0,2028.0,Ordered
+ORD00645,,Cindy Meyer,T-Shirt,Apparel,East,3.0,,,Shipped
+ORD00646,2023-10-24,Marie Greer,Watch,Accessories,East,,607.0,,Delivered
+ORD00647,2023-12-15,Sarah Leblanc,Laptop,,North,3.0,803.0,2409.0,Shipped
+ORD00648,2023-09-05,Barbara Sanchez,T-Shirt,Apparel,West,1.0,,631.0,Returned
+ORD00649,2023-04-14,Kendra Owens,T-Shirt,,North,1.0,298.0,298.0,Shipped
+ORD00650,2023-08-09,Thomas Moss,Smartphone,,South,2.0,806.0,1612.0,Shipped
+ORD00651,2023-02-18,Jenna Walker,Shoes,Footwear,South,2.0,580.0,1160.0,Ordered
+ORD00652,2023-02-06,Michael Cabrera,Smartphone,Electronics,South,,105.0,105.0,Shipped
+ORD00653,,Jill Boyle,Backpack,,South,5.0,373.0,1865.0,Delivered
+ORD00654,,David Newton,Shoes,Footwear,North,3.0,903.0,2709.0,Delivered
+ORD00655,2023-12-03,Vanessa Rush,Backpack,Accessories,South,4.0,783.0,,Shipped
+,,Craig Andrews,,Electronics,South,2.0,203.0,406.0,Ordered
+,2023-03-16,,Smartphone,Electronics,East,4.0,552.0,2208.0,Shipped
+ORD00658,2023-09-12,Vanessa Rush,Watch,Accessories,West,,176.0,352.0,Delivered
+ORD00659,,,Watch,Accessories,East,3.0,665.0,,
+,2023-06-05,Brittany Higgins,Backpack,,North,2.0,390.0,780.0,Shipped
+ORD00661,2023-04-17,Corey Montgomery,T-Shirt,Apparel,West,3.0,694.0,2082.0,Ordered
+ORD00662,2023-06-21,Sarah Guerrero,Laptop,Electronics,East,5.0,,2675.0,Ordered
+ORD00663,,Vanessa Rush,Watch,Accessories,,,937.0,1874.0,Returned
+,,,Watch,Accessories,,2.0,,1006.0,Shipped
+ORD00665,2023-12-11,Rebecca Jackson,,Footwear,,1.0,640.0,640.0,Ordered
+ORD00666,2023-06-05,Craig Andrews,Laptop,,West,3.0,910.0,2730.0,Ordered
+ORD00667,2023-09-28,Thomas Rasmussen,Headphones,Electronics,West,1.0,392.0,,Shipped
+ORD00668,2023-12-22,Barbara Sanchez,Laptop,Electronics,North,5.0,188.0,940.0,
+ORD00669,2023-01-28,Lauren Wilson,Watch,Accessories,North,1.0,,806.0,Ordered
+,2023-07-01,Ronald Bennett,Backpack,Accessories,West,2.0,,1560.0,Ordered
+ORD00671,2023-04-09,Adrienne Olsen,Smartphone,Electronics,South,5.0,424.0,2120.0,Shipped
+,,Jennifer Vincent,T-Shirt,Apparel,,3.0,598.0,1794.0,
+,2023-09-03,Erin Smith,Shoes,Footwear,West,1.0,723.0,723.0,
+ORD00674,2023-11-04,Shawn Marshall,Smartphone,Electronics,,3.0,637.0,1911.0,Shipped
+ORD00675,,Maria Gill,Backpack,Accessories,West,3.0,,1866.0,Ordered
+ORD00676,2023-12-07,Richard Hall,Shoes,Footwear,North,,101.0,202.0,
+ORD00677,2023-04-01,,,Electronics,East,1.0,310.0,310.0,Shipped
+ORD00678,2023-05-11,Candace Todd,Smartphone,Electronics,West,3.0,487.0,1461.0,Delivered
+ORD00679,2023-06-18,Jason Martin,Headphones,Electronics,East,2.0,769.0,1538.0,Delivered
+ORD00680,2023-10-05,Timothy Frazier,T-Shirt,Apparel,North,2.0,911.0,1822.0,Ordered
+ORD00681,2023-12-08,Rebecca Jackson,,Electronics,East,3.0,433.0,1299.0,Shipped
+,,Robert Ford,Watch,,West,3.0,28.0,,Ordered
+ORD00683,2023-12-02,Grant Morgan,Backpack,Accessories,East,2.0,242.0,484.0,Ordered
+,2023-08-10,,,Electronics,West,3.0,514.0,1542.0,Ordered
+ORD00685,2023-07-31,Randy Perez,Headphones,,,,890.0,890.0,Ordered
+ORD00686,2023-02-14,,Headphones,Electronics,North,3.0,204.0,612.0,Delivered
+ORD00687,2023-04-24,Randy Perez,,Accessories,West,5.0,446.0,2230.0,Ordered
+ORD00688,2023-10-23,Michelle Herring,Laptop,,South,1.0,247.0,247.0,Ordered
+ORD00689,2023-02-09,Rebecca Rojas,Backpack,Accessories,South,1.0,499.0,,Shipped
+ORD00690,2023-10-29,Harold Brown,T-Shirt,Apparel,,,224.0,896.0,Delivered
+ORD00691,2023-09-30,Heather Gonzalez,,Accessories,,2.0,535.0,,Returned
+ORD00692,,,T-Shirt,,,4.0,356.0,1424.0,Ordered
+ORD00693,2023-12-21,Rebecca Rojas,Smartphone,,South,5.0,434.0,2170.0,Ordered
+ORD00694,2023-05-18,Lindsey George,T-Shirt,Apparel,South,1.0,744.0,744.0,Ordered
+ORD00695,2023-09-05,,Headphones,Electronics,South,4.0,579.0,2316.0,Shipped
+ORD00696,2023-05-24,James Moore,,Footwear,North,3.0,247.0,741.0,Ordered
+ORD00697,2023-12-15,Megan Guzman,,Electronics,West,5.0,172.0,860.0,Delivered
+,2023-01-23,Harry James,,Accessories,East,3.0,801.0,2403.0,Shipped
+ORD00699,2023-10-04,Richard Hall,Smartphone,,South,1.0,337.0,337.0,
+ORD00700,2023-05-14,Lindsay Williams,Laptop,Electronics,West,,,1660.0,Ordered
+ORD00701,2023-07-09,Jackie Moore,Backpack,,West,5.0,590.0,2950.0,Delivered
+ORD00702,,Rebecca Jackson,T-Shirt,Apparel,East,1.0,620.0,620.0,Returned
+ORD00703,2023-09-30,Jessica Jones,Shoes,Footwear,North,3.0,40.0,,Shipped
+ORD00704,2023-04-19,Craig Andrews,,Accessories,,2.0,465.0,930.0,
+ORD00705,2023-01-01,Harold Brown,Watch,Accessories,North,5.0,745.0,3725.0,Delivered
+ORD00706,2023-03-15,Victoria Fernandez,Laptop,Electronics,South,5.0,,4365.0,Returned
+ORD00707,2023-02-13,Jessica Jones,Watch,Accessories,East,4.0,504.0,2016.0,Shipped
+ORD00708,2023-08-27,Andrew Santiago,Shoes,Footwear,West,2.0,662.0,1324.0,Ordered
+,,Sheila Bush,Watch,Accessories,East,4.0,672.0,2688.0,Ordered
+ORD00710,2023-07-14,,T-Shirt,Apparel,,3.0,234.0,,Ordered
+ORD00711,,Jennifer Garcia,Watch,Accessories,North,1.0,332.0,332.0,Ordered
+ORD00712,2023-06-29,Brian Ayala,Shoes,Footwear,East,4.0,439.0,1756.0,Returned
+ORD00713,2023-08-02,Robert Simmons,Laptop,Electronics,West,1.0,305.0,305.0,Ordered
+,2023-01-15,Randall Brewer,,Electronics,South,5.0,,485.0,Delivered
+ORD00715,2023-09-17,Heather Gonzalez,Smartphone,Electronics,North,,924.0,1848.0,Shipped
+ORD00716,2023-04-10,Vanessa Rush,Backpack,Accessories,South,3.0,722.0,2166.0,Shipped
+ORD00717,2023-06-03,Jennifer Garcia,,Apparel,South,4.0,876.0,3504.0,Ordered
+,2023-04-04,John Shah,Smartphone,Electronics,East,1.0,682.0,682.0,Ordered
+ORD00719,2023-06-25,Brittany Higgins,Laptop,Electronics,South,,634.0,1902.0,Ordered
+ORD00720,,Andrew Holden,Watch,Accessories,East,,772.0,1544.0,Shipped
+ORD00721,2023-08-20,Thomas Rasmussen,Shoes,Footwear,South,2.0,503.0,1006.0,Shipped
+ORD00722,2023-05-05,Jennifer Vincent,Backpack,Accessories,West,1.0,175.0,175.0,Delivered
+ORD00723,2023-06-07,Randy Perez,Watch,Accessories,South,1.0,481.0,481.0,Shipped
+ORD00724,2023-08-14,Jenna Walker,Backpack,Accessories,West,1.0,,637.0,
+ORD00725,2023-10-17,,,Apparel,West,4.0,457.0,1828.0,Ordered
+ORD00726,2023-05-01,Brian Williams,T-Shirt,,,4.0,979.0,3916.0,Delivered
+ORD00727,2023-07-07,Jason Martin,,Electronics,East,,,529.0,Ordered
+ORD00728,2023-07-24,Thomas Moss,Headphones,Electronics,East,,468.0,1872.0,Shipped
+ORD00729,2023-12-13,Kristen Jones,Headphones,Electronics,South,1.0,899.0,899.0,
+ORD00730,2023-01-10,,,Accessories,,1.0,72.0,72.0,Ordered
+ORD00731,2023-11-27,Michelle Herring,Watch,Accessories,South,4.0,738.0,2952.0,Delivered
+,2023-04-02,Candace Todd,Watch,Accessories,West,,850.0,1700.0,
+ORD00733,2023-09-24,Erik Green,Backpack,Accessories,East,,717.0,2151.0,Returned
+ORD00734,2023-11-21,,Headphones,Electronics,North,,405.0,1215.0,
+ORD00735,2023-12-03,Gregory Miller,T-Shirt,Apparel,,4.0,,3132.0,Shipped
+,,Michael Contreras,Headphones,Electronics,South,1.0,114.0,114.0,
+ORD00737,2023-06-04,Corey Montgomery,Watch,Accessories,East,5.0,323.0,1615.0,Ordered
+ORD00738,2023-03-23,Jennifer Vincent,Shoes,Footwear,East,1.0,,492.0,Ordered
+ORD00739,,Victoria Fernandez,Laptop,,,3.0,928.0,2784.0,Delivered
+ORD00740,2023-08-25,Brian Ayala,Shoes,Footwear,East,1.0,,957.0,Delivered
+ORD00741,2023-01-13,Thomas Rasmussen,Shoes,,,5.0,164.0,820.0,Returned
+ORD00742,2023-07-05,Timothy Frazier,T-Shirt,Apparel,South,4.0,867.0,3468.0,Returned
+ORD00743,2023-03-31,Harold Brown,Smartphone,Electronics,West,5.0,499.0,2495.0,
+ORD00744,2023-10-24,Harry James,Backpack,Accessories,North,2.0,504.0,1008.0,Shipped
+ORD00745,2023-08-23,Daniel Hamilton,T-Shirt,,East,5.0,995.0,4975.0,Ordered
+ORD00746,2023-06-05,Marie Greer,Backpack,Accessories,East,1.0,252.0,252.0,Shipped
+,2023-01-31,Denise Cole,Backpack,Accessories,North,5.0,256.0,1280.0,Shipped
+,2023-05-28,Maria Gill,Shoes,Footwear,West,1.0,223.0,223.0,
+ORD00749,,Carla Hill,Backpack,Accessories,North,5.0,26.0,,Ordered
+ORD00750,2023-04-02,Michael Contreras,Headphones,Electronics,South,5.0,671.0,3355.0,
+ORD00751,,Audrey Cook,,Apparel,East,2.0,712.0,1424.0,
+ORD00752,,Sarah Leblanc,Backpack,Accessories,,4.0,,3412.0,Ordered
+ORD00753,2023-04-01,Jennifer Smith,Shoes,Footwear,South,5.0,43.0,215.0,Shipped
+ORD00754,,,Laptop,Electronics,North,5.0,824.0,4120.0,Ordered
+ORD00755,2023-11-29,Mallory Lopez,Shoes,Footwear,South,4.0,975.0,3900.0,Delivered
+ORD00756,2023-08-31,Denise Barrett,Laptop,Electronics,North,1.0,87.0,87.0,Shipped
+ORD00757,2023-03-31,Michael Smith,Shoes,Footwear,East,3.0,864.0,2592.0,Delivered
+ORD00758,,Daniel Mendoza,Laptop,Electronics,South,4.0,951.0,3804.0,Ordered
+ORD00759,,Mr. Anthony Barnes,,Accessories,North,1.0,840.0,840.0,
+ORD00760,2023-01-22,Megan Guzman,Laptop,Electronics,South,4.0,341.0,1364.0,Shipped
+ORD00761,2023-02-22,Andrew Holden,,Accessories,South,4.0,472.0,1888.0,
+ORD00762,2023-05-24,Michelle Herring,T-Shirt,Apparel,,2.0,,824.0,Delivered
+ORD00763,2023-02-21,Christopher Gibson,,Footwear,West,5.0,958.0,4790.0,Ordered
+,2023-04-20,Daniel Mendoza,Headphones,,,1.0,,92.0,Shipped
+ORD00765,2023-11-02,Jessica Jones,Smartphone,Electronics,West,2.0,446.0,892.0,Shipped
+ORD00766,2023-11-13,Audrey Cook,Smartphone,Electronics,South,3.0,872.0,2616.0,Ordered
+ORD00767,2023-05-21,,T-Shirt,Apparel,South,,625.0,625.0,
+ORD00768,2023-06-05,Barbara Sanchez,T-Shirt,Apparel,East,4.0,724.0,2896.0,Shipped
+ORD00769,2023-01-19,Sheila Bush,T-Shirt,Apparel,North,2.0,364.0,728.0,
+ORD00770,2023-08-18,Timothy Frazier,Laptop,Electronics,West,3.0,965.0,2895.0,
+ORD00771,,Jill Boyle,,Apparel,North,1.0,217.0,217.0,
+,2023-04-13,Sarah Guerrero,Headphones,Electronics,South,,66.0,198.0,Shipped
+ORD00773,2023-06-17,,Backpack,Accessories,North,1.0,838.0,838.0,Ordered
+ORD00774,2023-09-03,,Headphones,Electronics,,3.0,833.0,2499.0,Ordered
+ORD00775,2023-06-02,Denise Cole,Smartphone,Electronics,East,3.0,576.0,1728.0,Shipped
+,,Andrew Shields,Shoes,Footwear,North,5.0,,,
+ORD00777,2023-11-27,Corey Montgomery,Watch,,West,2.0,678.0,,Returned
+ORD00778,2023-12-31,Brittany Higgins,Watch,Accessories,North,3.0,138.0,414.0,Delivered
+ORD00779,,Corey Montgomery,Watch,Accessories,East,,938.0,2814.0,
+ORD00780,2023-03-20,Jill Boyle,,Electronics,West,3.0,241.0,,Returned
+ORD00781,2023-06-15,Daniel Mendoza,Laptop,Electronics,East,5.0,50.0,250.0,Ordered
+ORD00782,2023-05-23,Vanessa Rush,Watch,Accessories,West,2.0,810.0,1620.0,Delivered
+ORD00783,2023-03-02,Jacob Torres,Watch,,North,1.0,56.0,56.0,Delivered
+,2023-08-13,Steven Mathis,Headphones,Electronics,West,4.0,518.0,2072.0,Ordered
+,,Jackie Moore,Backpack,Accessories,East,4.0,141.0,564.0,
+ORD00786,2023-02-22,Marie Greer,Smartphone,Electronics,West,3.0,718.0,2154.0,Shipped
+,2023-06-03,Kelly Collins,T-Shirt,Apparel,North,,863.0,863.0,Ordered
+ORD00788,2023-03-22,Kristen Jones,Watch,Accessories,North,4.0,895.0,3580.0,Delivered
+ORD00789,2023-11-27,,T-Shirt,Apparel,West,2.0,922.0,1844.0,Shipped
+,2023-08-11,Kendra Owens,Smartphone,Electronics,East,5.0,523.0,2615.0,Shipped
+ORD00791,2023-07-27,John Shah,Laptop,,North,1.0,99.0,99.0,Shipped
+ORD00792,2023-08-16,Denise Cole,Headphones,Electronics,,,604.0,,Shipped
+ORD00793,2023-10-19,Blake Pacheco,,Apparel,West,5.0,114.0,570.0,Delivered
+ORD00794,2023-10-03,Michael Smith,T-Shirt,Apparel,South,5.0,598.0,2990.0,
+ORD00795,2023-04-20,Erin Smith,Shoes,,South,,996.0,2988.0,
+,2023-10-21,Randall Brewer,Backpack,,,2.0,767.0,1534.0,Returned
+ORD00797,2023-03-19,Andrew Shields,Headphones,Electronics,South,4.0,454.0,,Delivered
+ORD00798,2023-11-12,Tyler Clark PhD,,Apparel,,3.0,365.0,,Returned
+ORD00799,2023-02-05,Henry Thomas,Watch,Accessories,South,5.0,906.0,4530.0,Delivered
+ORD00800,2023-09-09,Jessica Jones,,Electronics,,3.0,241.0,723.0,
+ORD00801,2023-08-16,Brian Williams,T-Shirt,,South,,98.0,294.0,Ordered
+ORD00802,,Randall Brewer,,Accessories,West,4.0,886.0,3544.0,Delivered
+ORD00803,2023-11-27,Michelle Herring,Backpack,Accessories,North,5.0,793.0,3965.0,Returned
+,,Erik Green,Smartphone,Electronics,North,3.0,575.0,1725.0,Shipped
+ORD00805,2023-07-16,Harry James,,Electronics,East,5.0,549.0,2745.0,
+,2023-11-16,Cindy Meyer,Laptop,Electronics,West,1.0,171.0,,Delivered
+ORD00807,2023-05-03,,T-Shirt,Apparel,West,5.0,89.0,445.0,Returned
+ORD00808,2023-08-26,Vanessa Rush,Shoes,Footwear,West,1.0,204.0,204.0,Ordered
+ORD00809,2023-10-31,Shawn Marshall,Shoes,Footwear,East,5.0,595.0,2975.0,Shipped
+ORD00810,2023-02-07,Ronald Bennett,Smartphone,Electronics,East,1.0,96.0,96.0,Shipped
+ORD00811,2023-09-13,,Shoes,Footwear,North,5.0,708.0,3540.0,Delivered
+ORD00812,2023-05-21,Sarah Leblanc,,Footwear,South,3.0,548.0,1644.0,Delivered
+ORD00813,2023-09-26,,Shoes,,West,4.0,966.0,3864.0,Shipped
+ORD00814,2023-04-09,Christopher Gibson,Headphones,Electronics,West,5.0,338.0,1690.0,Shipped
+ORD00815,2023-12-05,Rebecca Rojas,Watch,Accessories,,3.0,,1215.0,Ordered
+ORD00816,,,Headphones,Electronics,North,2.0,,,Shipped
+,2023-06-24,Grant Morgan,T-Shirt,Apparel,West,5.0,95.0,475.0,Ordered
+ORD00818,2023-03-26,Daniel Stewart,,Electronics,North,5.0,737.0,3685.0,Shipped
+ORD00819,2023-06-03,Adrienne Olsen,Backpack,,East,2.0,945.0,,Ordered
+ORD00820,2023-10-14,Andrew Santiago,,Apparel,South,1.0,,367.0,Shipped
+ORD00821,2023-02-24,Andrew Holden,Shoes,Footwear,West,5.0,602.0,3010.0,
+,,Jennifer Nguyen,Laptop,Electronics,North,4.0,609.0,2436.0,Shipped
+,2023-12-05,Timothy Frazier,Shoes,Footwear,West,2.0,769.0,1538.0,
+ORD00824,2023-05-21,Brian Williams,T-Shirt,Apparel,West,4.0,710.0,2840.0,
+,2023-05-31,Sarah Harding,Shoes,,North,4.0,436.0,1744.0,Shipped
+ORD00826,2023-10-29,Andrew Santiago,Laptop,Electronics,West,4.0,685.0,2740.0,
+ORD00827,2023-08-05,Heather Gonzalez,Watch,Accessories,North,,,164.0,Delivered
+ORD00828,2023-03-27,Richard Hall,,Electronics,West,3.0,361.0,,Shipped
+ORD00829,,,Watch,Accessories,South,,820.0,2460.0,Returned
+ORD00830,2023-01-20,Timothy Frazier,Watch,,,4.0,523.0,2092.0,Ordered
+ORD00831,2023-06-12,,Shoes,Footwear,West,3.0,984.0,,Delivered
+ORD00832,2023-12-02,Jill Boyle,Shoes,Footwear,West,,889.0,1778.0,
+ORD00833,2023-11-24,Adrienne Olsen,Shoes,Footwear,East,2.0,498.0,,Shipped
+ORD00834,2023-08-31,,Smartphone,Electronics,North,,113.0,113.0,Shipped
+ORD00835,2023-09-22,,Backpack,Accessories,West,2.0,523.0,1046.0,Ordered
+,2023-07-20,Harold Brown,Smartphone,Electronics,West,2.0,826.0,1652.0,
+,2023-12-29,Denise Ward,,Accessories,South,1.0,413.0,413.0,Ordered
+ORD00838,,Harold Brown,Backpack,Accessories,East,3.0,,936.0,Delivered
+ORD00839,2023-08-31,James Moore,Watch,Accessories,West,,457.0,914.0,
+ORD00840,2023-01-01,Audrey Cook,Shoes,Footwear,South,4.0,,,Delivered
+ORD00841,2023-06-30,David Newton,T-Shirt,Apparel,South,2.0,783.0,1566.0,
+,2023-09-25,Robert Simmons,T-Shirt,Apparel,East,4.0,236.0,944.0,Delivered
+ORD00843,2023-02-21,William Harris,,Accessories,North,2.0,,1356.0,Returned
+ORD00844,2023-09-12,Carmen Saunders,T-Shirt,Apparel,East,4.0,660.0,2640.0,Shipped
+ORD00845,2023-03-23,Sean Kent,Headphones,,East,3.0,774.0,2322.0,Shipped
+ORD00846,2023-10-30,Michael Cabrera,Headphones,Electronics,North,3.0,781.0,2343.0,Shipped
+ORD00847,2023-08-24,Sean Kent,Laptop,Electronics,West,2.0,208.0,,
+ORD00848,2023-10-04,Adrienne Olsen,Shoes,Footwear,South,,893.0,2679.0,Shipped
+ORD00849,2023-04-24,Denise Cole,Headphones,Electronics,North,4.0,235.0,940.0,
+ORD00850,2023-02-17,Denise Cole,,Apparel,East,5.0,634.0,3170.0,Delivered
+ORD00851,2023-11-26,Larry Cummings,,Electronics,South,1.0,526.0,526.0,
+,,Lindsey George,T-Shirt,Apparel,East,,796.0,2388.0,Shipped
+ORD00853,2023-04-03,Sarah Leblanc,,,East,1.0,456.0,456.0,Shipped
+ORD00854,,,Headphones,Electronics,East,,734.0,3670.0,Shipped
+ORD00855,2023-03-13,Thomas Rasmussen,Shoes,Footwear,North,5.0,312.0,,Ordered
+ORD00856,2023-06-01,Sarah Leblanc,Smartphone,Electronics,East,2.0,226.0,452.0,Delivered
+,2023-08-09,Megan Guzman,Watch,Accessories,North,5.0,388.0,1940.0,
+ORD00858,,Thomas Moss,T-Shirt,,South,5.0,115.0,575.0,Ordered
+ORD00859,,Tyler Clark PhD,Headphones,Electronics,South,5.0,249.0,1245.0,Ordered
+ORD00860,2023-07-15,Jennifer Garcia,Smartphone,Electronics,North,2.0,125.0,250.0,Ordered
+ORD00861,2023-09-10,Cindy Meyer,Smartphone,,West,5.0,,3630.0,
+ORD00862,2023-09-21,Megan Guzman,T-Shirt,Apparel,East,1.0,777.0,777.0,Delivered
+ORD00863,2023-12-12,Barbara Sanchez,Shoes,Footwear,North,,789.0,789.0,Ordered
+,2023-08-26,Jenna Walker,Smartphone,Electronics,South,,584.0,,Shipped
+ORD00865,2023-02-17,Cindy Meyer,Watch,Accessories,North,5.0,,,Delivered
+ORD00866,2023-10-18,Cindy Meyer,Laptop,Electronics,North,2.0,425.0,850.0,Shipped
+ORD00867,2023-10-05,Lindsey George,Watch,Accessories,,3.0,,,Ordered
+ORD00868,2023-10-02,Rebecca Jackson,Laptop,Electronics,East,5.0,,3345.0,Ordered
+ORD00869,,Rebecca Jackson,Smartphone,Electronics,,5.0,613.0,3065.0,Ordered
+ORD00870,2023-10-10,,Backpack,Accessories,North,3.0,623.0,1869.0,Ordered
+ORD00871,2023-03-15,Rebecca Jackson,T-Shirt,,West,5.0,101.0,505.0,Shipped
+,2023-02-15,John Garcia,Shoes,Footwear,East,,,,Shipped
+ORD00873,2023-03-14,Jennifer Nguyen,Shoes,,East,5.0,,1575.0,Ordered
+ORD00874,2023-05-04,William Atkinson,Backpack,Accessories,South,1.0,620.0,620.0,Ordered
+ORD00875,2023-05-02,William Atkinson,Headphones,Electronics,West,1.0,647.0,647.0,Ordered
+ORD00876,2023-09-22,Brian Ayala,Smartphone,Electronics,West,4.0,885.0,,Shipped
+,2023-08-15,Kristen Jones,,Electronics,East,2.0,,332.0,Shipped
+,2023-09-19,Jenna Walker,Smartphone,Electronics,South,,768.0,1536.0,Shipped
+,2023-08-01,Michelle Herring,Shoes,,South,1.0,146.0,146.0,Delivered
+ORD00880,2023-08-30,Beth Schroeder,Shoes,Footwear,East,3.0,414.0,1242.0,
+ORD00881,,Grant Morgan,Backpack,,East,4.0,678.0,2712.0,
+ORD00882,2023-04-12,Carla Hill,Backpack,Accessories,East,2.0,98.0,196.0,Delivered
+,,,Headphones,,North,3.0,230.0,690.0,
+ORD00884,2023-08-21,Nicholas Gray PhD,Backpack,Accessories,South,,,754.0,Ordered
+ORD00885,2023-08-19,,Headphones,,East,3.0,647.0,,Ordered
+ORD00886,2023-02-17,Cindy Meyer,,Accessories,North,1.0,107.0,,Shipped
+ORD00887,2023-04-07,Sarah Guerrero,Laptop,Electronics,North,1.0,794.0,794.0,Shipped
+ORD00888,2023-10-12,Kristen Jones,Smartphone,Electronics,North,4.0,845.0,3380.0,Ordered
+ORD00889,2023-12-25,Denise Ward,T-Shirt,Apparel,East,1.0,569.0,569.0,Delivered
+ORD00890,2023-07-25,Kendra Owens,Backpack,Accessories,South,1.0,153.0,153.0,Ordered
+ORD00891,2023-01-07,Michelle Herring,Watch,Accessories,,2.0,557.0,1114.0,Delivered
+ORD00892,2023-07-08,Richard Hall,,Accessories,,2.0,646.0,1292.0,Delivered
+ORD00893,2023-04-26,Jill Boyle,Shoes,Footwear,South,1.0,975.0,975.0,Ordered
+ORD00894,2023-09-07,Denise Barrett,Smartphone,,North,1.0,37.0,37.0,Shipped
+ORD00895,2023-05-16,Maria Gill,Headphones,Electronics,West,4.0,140.0,,Delivered
+ORD00896,2023-12-25,Lauren Wilson,Smartphone,Electronics,,4.0,,,Ordered
+ORD00897,2023-05-17,,Watch,Accessories,West,2.0,,1568.0,Shipped
+ORD00898,,Anthony Williams,Shoes,Footwear,East,1.0,,711.0,Ordered
+ORD00899,2023-04-07,,T-Shirt,Apparel,West,2.0,592.0,1184.0,Delivered
+ORD00900,,Jill Boyle,Smartphone,Electronics,West,4.0,630.0,,Ordered
+ORD00901,2023-07-22,James Moore,Shoes,Footwear,South,3.0,861.0,2583.0,Ordered
+ORD00902,2023-10-08,Jennifer Smith,T-Shirt,Apparel,North,,268.0,1340.0,Ordered
+ORD00903,2023-06-10,,Watch,Accessories,,4.0,332.0,1328.0,Delivered
+ORD00904,2023-06-01,Andrew Holden,Backpack,Accessories,South,2.0,671.0,1342.0,Delivered
+ORD00905,2023-07-27,Lauren Wilson,T-Shirt,Apparel,West,3.0,723.0,2169.0,Delivered
+ORD00906,2023-04-04,Denise Barrett,Laptop,Electronics,West,1.0,346.0,346.0,
+ORD00907,2023-02-11,Richard Hall,Watch,Accessories,East,1.0,,806.0,Delivered
+ORD00908,,Rebecca Jackson,Headphones,Electronics,South,4.0,,1556.0,Shipped
+ORD00909,2023-07-27,Blake Pacheco,Headphones,Electronics,South,5.0,626.0,,Shipped
+ORD00910,2023-05-15,,Shoes,Footwear,North,3.0,672.0,2016.0,Ordered
+ORD00911,,Heather Gonzalez,Smartphone,Electronics,East,4.0,104.0,416.0,Ordered
+ORD00912,2023-06-27,,Smartphone,Electronics,North,2.0,251.0,502.0,
+ORD00913,2023-07-29,Angel Smith,Shoes,,South,1.0,610.0,610.0,Ordered
+ORD00914,2023-01-07,Brittany Higgins,Watch,,North,3.0,357.0,1071.0,Ordered
+ORD00915,2023-05-27,Jason Martin,Smartphone,Electronics,North,1.0,782.0,,Delivered
+ORD00916,2023-12-06,John Garcia,Smartphone,Electronics,North,1.0,428.0,,Ordered
+ORD00917,2023-10-27,Jennifer Vincent,Backpack,Accessories,East,3.0,663.0,1989.0,Delivered
+ORD00918,2023-06-20,Randy Perez,Backpack,Accessories,North,5.0,,1145.0,Shipped
+ORD00919,,Brittany Higgins,Headphones,,South,,528.0,2112.0,Returned
+,2023-01-06,,Shoes,,West,4.0,402.0,1608.0,Shipped
+ORD00921,2023-05-10,,,Electronics,West,5.0,761.0,3805.0,Shipped
+ORD00922,,,Backpack,Accessories,South,3.0,667.0,2001.0,Delivered
+ORD00923,2023-09-12,,Watch,Accessories,South,,588.0,588.0,Ordered
+ORD00924,2023-02-10,Larry Cummings,Smartphone,Electronics,East,3.0,667.0,2001.0,Shipped
+ORD00925,2023-01-05,Beth Schroeder,T-Shirt,Apparel,North,5.0,368.0,1840.0,
+ORD00926,2023-02-18,Jennifer Garcia,Laptop,Electronics,East,4.0,933.0,3732.0,Ordered
+ORD00927,2023-02-10,Timothy Frazier,Shoes,Footwear,South,5.0,989.0,4945.0,Ordered
+ORD00928,2023-05-26,,Laptop,Electronics,South,3.0,93.0,279.0,Delivered
+ORD00929,,,Laptop,,East,4.0,373.0,,Shipped
+ORD00930,2023-02-26,Craig Andrews,,Electronics,West,4.0,772.0,3088.0,
+ORD00931,2023-05-19,Denise Barrett,Shoes,Footwear,West,5.0,602.0,3010.0,Shipped
+ORD00932,2023-11-26,Robert Simmons,Smartphone,Electronics,South,,,4700.0,Ordered
+ORD00933,2023-11-03,Candace Todd,Laptop,Electronics,South,1.0,64.0,64.0,Delivered
+ORD00934,2023-02-19,Randy Perez,Shoes,Footwear,South,1.0,,133.0,Shipped
+,,Victoria Fernandez,T-Shirt,Apparel,South,2.0,542.0,1084.0,Shipped
+ORD00936,,Denise Cole,Smartphone,,West,2.0,157.0,314.0,Shipped
+ORD00937,2023-05-02,Denise Cole,T-Shirt,Apparel,North,2.0,62.0,124.0,Delivered
+ORD00938,2023-11-29,Jenna Walker,Laptop,Electronics,South,3.0,813.0,2439.0,Shipped
+ORD00939,2023-05-30,Sean Kent,Shoes,Footwear,South,4.0,689.0,2756.0,Returned
+ORD00940,2023-04-08,Karen Olsen,Shoes,Footwear,North,2.0,463.0,926.0,Ordered
+ORD00941,2023-01-17,Michael Smith,Laptop,Electronics,South,5.0,66.0,330.0,Delivered
+ORD00942,2023-09-04,Sarah Leblanc,Backpack,Accessories,East,4.0,33.0,132.0,Shipped
+,2023-04-06,Jacob Brown,Smartphone,,West,,635.0,635.0,Delivered
+ORD00944,2023-07-28,Audrey Cook,Headphones,Electronics,West,5.0,191.0,955.0,Ordered
+ORD00945,2023-06-25,Timothy Frazier,Headphones,Electronics,South,,502.0,2510.0,Ordered
+ORD00946,2023-12-10,Jason Martin,,Apparel,North,,267.0,801.0,
+,2023-08-21,Cindy Meyer,,Electronics,North,2.0,84.0,,Delivered
+ORD00948,2023-06-18,,Headphones,Electronics,South,2.0,157.0,314.0,Returned
+ORD00949,2023-03-28,Andrew Shields,Backpack,Accessories,West,3.0,470.0,1410.0,Delivered
+ORD00950,2023-01-28,William Harris,Smartphone,Electronics,North,3.0,184.0,552.0,Shipped
+ORD00951,2023-03-10,Jackie Moore,,Accessories,South,2.0,804.0,1608.0,Ordered
+,2023-01-12,Blake Pacheco,Smartphone,Electronics,East,3.0,843.0,2529.0,
+,2023-08-28,Randall Brewer,,,North,4.0,,1300.0,Ordered
+ORD00954,2023-08-24,John Roman,Smartphone,Electronics,West,5.0,,125.0,Returned
+ORD00955,2023-09-07,Daniel Mendoza,Watch,Accessories,South,,49.0,147.0,
+,2023-06-30,Cindy Meyer,,Accessories,,1.0,154.0,154.0,Delivered
+ORD00957,2023-11-10,Jackie Moore,,Electronics,East,4.0,,120.0,Ordered
+,2023-05-07,Grant Morgan,Laptop,Electronics,,,762.0,1524.0,
+ORD00959,2023-03-31,Denise Cole,Laptop,Electronics,,3.0,868.0,2604.0,
+ORD00960,,Sarah Leblanc,Smartphone,Electronics,North,1.0,783.0,783.0,Shipped
+ORD00961,,Erin Smith,,Electronics,North,3.0,548.0,1644.0,Returned
+ORD00962,2023-10-07,Daniel Mendoza,,Accessories,South,,165.0,165.0,Delivered
+ORD00963,,William Harris,Watch,Accessories,West,1.0,325.0,,Returned
+ORD00964,2023-09-08,Carmen Saunders,Smartphone,Electronics,South,4.0,259.0,1036.0,Returned
+ORD00965,2023-06-18,Shannon Vasquez,T-Shirt,Apparel,West,3.0,322.0,966.0,Shipped
+ORD00966,2023-06-11,,Shoes,Footwear,West,1.0,561.0,561.0,Shipped
+ORD00967,2023-01-06,Denise Cole,Laptop,Electronics,North,5.0,685.0,3425.0,Shipped
+ORD00968,2023-10-12,Richard Hall,,,South,1.0,119.0,119.0,Shipped
+ORD00969,2023-11-04,Anthony Williams,Smartphone,Electronics,West,2.0,733.0,1466.0,Ordered
+ORD00970,,Jason Martin,Headphones,Electronics,South,3.0,27.0,81.0,Ordered
+ORD00971,,Jessica Jones,,Apparel,East,3.0,805.0,,
+ORD00972,2023-04-02,Ronald Bennett,,Accessories,South,3.0,996.0,,Ordered
+ORD00973,2023-07-13,Dylan Davis,T-Shirt,,South,1.0,857.0,857.0,
+ORD00974,2023-09-19,Marie Greer,Backpack,,,5.0,742.0,3710.0,Delivered
+ORD00975,2023-02-09,John Roman,Headphones,Electronics,South,,556.0,2780.0,Shipped
+,2023-05-12,Kendra Owens,Headphones,Electronics,West,2.0,514.0,1028.0,Delivered
+ORD00977,2023-06-18,Randy Perez,Headphones,Electronics,East,2.0,561.0,,Ordered
+ORD00978,2023-07-13,Nicholas Cox,Smartphone,Electronics,South,,391.0,782.0,Ordered
+ORD00979,2023-04-03,Christopher Gibson,T-Shirt,Apparel,North,5.0,480.0,2400.0,Ordered
+ORD00980,2023-07-22,Lindsey George,Shoes,Footwear,South,1.0,695.0,695.0,Shipped
+ORD00981,2023-01-20,Harry James,Smartphone,Electronics,South,4.0,,2004.0,Shipped
+ORD00982,2023-05-30,Heather Gonzalez,Smartphone,Electronics,,3.0,619.0,1857.0,Ordered
+ORD00983,2023-10-23,Mr. Anthony Barnes,,Footwear,East,2.0,,1736.0,Ordered
+ORD00984,2023-07-07,Tyler Clark PhD,,Accessories,South,,85.0,170.0,Shipped
+ORD00985,2023-05-26,Harold Brown,Backpack,,West,2.0,54.0,108.0,Ordered
+ORD00986,2023-01-09,Jennifer Nguyen,Backpack,Accessories,North,1.0,912.0,,Ordered
+ORD00987,2023-12-19,,T-Shirt,Apparel,North,4.0,194.0,776.0,Shipped
+ORD00988,2023-03-23,,,Electronics,South,4.0,867.0,3468.0,Returned
+ORD00989,2023-07-25,Craig Andrews,T-Shirt,Apparel,East,5.0,901.0,4505.0,Ordered
+ORD00990,2023-09-12,Daniel Stewart,Smartphone,Electronics,,,718.0,718.0,Ordered
+ORD00991,2023-01-18,Jason Martin,T-Shirt,Apparel,East,5.0,892.0,4460.0,Ordered
+ORD00992,2023-09-12,Vanessa Rush,Smartphone,Electronics,West,2.0,64.0,,Shipped
+ORD00993,,,Shoes,,East,5.0,675.0,3375.0,Shipped
+,2023-02-24,Brian Williams,T-Shirt,Apparel,East,3.0,815.0,2445.0,Shipped
+,2023-10-04,Jacob Torres,T-Shirt,Apparel,East,5.0,968.0,4840.0,Ordered
+ORD00996,2023-12-08,Kevin Cross,T-Shirt,Apparel,South,,,1252.0,Ordered
+ORD00997,2023-03-11,Sarah Guerrero,Laptop,Electronics,,1.0,,,
+ORD00998,2023-04-26,Harry James,,Apparel,East,1.0,411.0,411.0,Ordered
+ORD00999,2023-04-14,John Garcia,Laptop,Electronics,East,5.0,36.0,,Shipped
+ORD01000,2023-05-29,Maria Gill,Headphones,Electronics,South,4.0,998.0,3992.0,Shipped
